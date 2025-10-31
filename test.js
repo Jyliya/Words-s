@@ -216,7 +216,7 @@ function endTest() {
         const d = new Date();
         tryN++;
         localStorage.setItem("number of tries", (JSON.stringify(tryN)));
-        document.cookie = `result${tryN}-${chosenType}-${d.getDate()}_${d.getMonth()}=${correctCount}; max-age=1.21e+6;`
+        document.cookie = `result${tryN}-${chosenType}-${d.getDate()}_${d.getMonth()}=${correctCount}; max-age=2629746;`
         correctCount = 0;
         allCount.textContent = 0;
     }
