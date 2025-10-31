@@ -1,0 +1,4085 @@
+{
+    "words": [
+        {
+            "word": "abandon",
+            "translation": "покидати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To leave something or someone behind permanently."
+        },
+        {
+            "word": "absorb",
+            "translation": "поглинати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To take in a liquid, gas, or information."
+        },
+        {
+            "word": "abstract",
+            "translation": "абстрактний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Existing as an idea but not having a physical form."
+        },
+        {
+            "word": "accent",
+            "translation": "акцент",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A way of pronouncing words typical of a region or country."
+        },
+        {
+            "word": "acceptable",
+            "translation": "прийнятний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Good enough or satisfactory."
+        },
+        {
+            "word": "accommodate",
+            "translation": "розміщувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To provide space or a place to stay."
+        },
+        {
+            "word": "accompany",
+            "translation": "супроводжувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To go somewhere with someone."
+        },
+        {
+            "word": "accomplish",
+            "translation": "досягати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To successfully achieve something."
+        },
+        {
+            "word": "accountant",
+            "translation": "бухгалтер",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A person who keeps or checks financial records."
+        },
+        {
+            "word": "accurate",
+            "translation": "точний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Correct and without mistakes."
+        },
+        {
+            "word": "accuse",
+            "translation": "звинувачувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To say that someone has done something wrong."
+        },
+        {
+            "word": "acknowledge",
+            "translation": "визнавати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To accept or admit the truth of something."
+        },
+        {
+            "word": "acquire",
+            "translation": "набувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To gain something, such as knowledge or a skill."
+        },
+        {
+            "word": "acre",
+            "translation": "акр",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A unit of land area equal to about 4,047 square meters."
+        },
+        {
+            "word": "adapt",
+            "translation": "пристосовуватися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To change to fit new conditions or situations."
+        },
+        {
+            "word": "adequate",
+            "translation": "достатній",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Enough for a particular purpose."
+        },
+        {
+            "word": "adjust",
+            "translation": "налаштовувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To change slightly to make something work better."
+        },
+        {
+            "word": "advance",
+            "translation": "просуватися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To move forward or make progress."
+        },
+        {
+            "word": "affair",
+            "translation": "справа, подія",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A situation or event, often of public interest."
+        },
+        {
+            "word": "aged",
+            "translation": "у віці/застарілий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Having a specified number of years of life."
+        },
+        {
+            "word": "agency",
+            "translation": "агенція",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A business or organization that provides a service."
+        },
+        {
+            "word": "agenda",
+            "translation": "порядок денний",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A list of items to be discussed at a meeting."
+        },
+        {
+            "word": "agriculture",
+            "translation": "сільське господарство",
+            "category": "Work",
+            "type": "noun",
+            "definition": "The science or practice of farming."
+        },
+        {
+            "word": "aid",
+            "translation": "допомога",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Help or support given to someone."
+        },
+        {
+            "word": "AIDS",
+            "translation": "СНІД",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A serious disease that affects the immune system."
+        },
+        {
+            "word": "alter",
+            "translation": "змінювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To change something slightly."
+        },
+        {
+            "word": "amusing",
+            "translation": "кумедний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Funny and entertaining."
+        },
+        {
+            "word": "analyst",
+            "translation": "аналітик",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A person who studies or examines something carefully."
+        },
+        {
+            "word": "ancestor",
+            "translation": "предок",
+            "category": "Family",
+            "type": "noun",
+            "definition": "A person from whom one is descended."
+        },
+        {
+            "word": "angle",
+            "translation": "кут",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "The space between two lines that meet."
+        },
+        {
+            "word": "annual",
+            "translation": "щорічний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Happening once every year."
+        },
+        {
+            "word": "anticipate",
+            "translation": "очікувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To expect something to happen."
+        },
+        {
+            "word": "anxiety",
+            "translation": "тривога",
+            "category": "Emotions/qualities",
+            "type": "noun",
+            "definition": "A feeling of worry or fear."
+        },
+        {
+            "word": "anxious",
+            "translation": "стривожений",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Feeling worried or nervous."
+        },
+        {
+            "word": "apparent",
+            "translation": "очевидний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Clearly visible or understood."
+        },
+        {
+            "word": "appeal",
+            "translation": "приваблювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To attract or interest someone."
+        },
+        {
+            "word": "applicant",
+            "translation": "заявник",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A person applying for a job or position."
+        },
+        {
+            "word": "approach",
+            "translation": "підхід",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A way of doing or thinking about something."
+        },
+        {
+            "word": "approval",
+            "translation": "схвалення",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The act of accepting or agreeing with something."
+        },
+        {
+            "word": "approve",
+            "translation": "схвалювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To officially accept or agree with something."
+        },
+        {
+            "word": "arise",
+            "translation": "виникати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To begin to exist or occur."
+        },
+        {
+            "word": "armed",
+            "translation": "озброєний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Carrying weapons."
+        },
+        {
+            "word": "arms",
+            "translation": "зброя",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "Weapons used for fighting."
+        },
+        {
+            "word": "arrow",
+            "translation": "стріла",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A pointed weapon shot from a bow."
+        },
+        {
+            "word": "artificial",
+            "translation": "штучний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Made by humans, not natural."
+        },
+        {
+            "word": "artistic",
+            "translation": "художній",
+            "category": "Art",
+            "type": "adjective",
+            "definition": "Connected with art or artists."
+        },
+        {
+            "word": "ashamed",
+            "translation": "засоромлений",
+            "category": "Emotions/qualities",
+            "type": "adjective",
+            "definition": "Feeling guilt or embarrassment about something."
+        },
+        {
+            "word": "assess",
+            "translation": "оцінювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To evaluate or judge the value of something."
+        },
+        {
+            "word": "assessment",
+            "translation": "оцінка",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "An evaluation or judgment of something."
+        },
+        {
+            "word": "assign",
+            "translation": "призначати",
+            "category": "Work",
+            "type": "verb",
+            "definition": "To give a task or duty to someone."
+        },
+        {
+            "word": "assume",
+            "translation": "припускати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To believe something without proof."
+        },
+        {
+            "word": "assumption",
+            "translation": "припущення",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Something believed to be true without evidence."
+        },
+        {
+            "word": "assure",
+            "translation": "запевняти",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To tell someone confidently that something is true."
+        },
+        {
+            "word": "astonishing",
+            "translation": "вражаючий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Very surprising or impressive."
+        },
+        {
+            "word": "attachment",
+            "translation": "прикріплення",
+            "category": "Technology/devices",
+            "type": "noun",
+            "definition": "A file or document sent with an email."
+        },
+        {
+            "word": "attempt",
+            "translation": "спроба",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "An effort to do something."
+        },
+        {
+            "word": "awareness",
+            "translation": "усвідомлення",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Knowledge or understanding of a situation."
+        },
+        {
+            "word": "badge",
+            "translation": "значок",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A small item showing a person's name or role."
+        },
+        {
+            "word": "balanced",
+            "translation": "збалансований",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Having all parts in the correct proportions."
+        },
+        {
+            "word": "ballet",
+            "translation": "балет",
+            "category": "Art",
+            "type": "noun",
+            "definition": "A form of artistic dance performed on stage."
+        },
+        {
+            "word": "barely",
+            "translation": "ледве",
+            "category": "Adverbs",
+            "type": "adverb",
+            "definition": "Almost not; only just."
+        },
+        {
+            "word": "bargain",
+            "translation": "вигідна покупка",
+            "category": "Shops",
+            "type": "noun",
+            "definition": "Something bought at a lower price than usual."
+        },
+        {
+            "word": "barrier",
+            "translation": "перешкода",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "Something that blocks movement or progress."
+        },
+        {
+            "word": "bear",
+            "translation": "витримувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To deal with or tolerate something difficult."
+        },
+        {
+            "word": "beg",
+            "translation": "благати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To ask for something desperately or repeatedly."
+        },
+        {
+            "word": "beneficial",
+            "translation": "корисний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Producing good or helpful results."
+        },
+        {
+            "word": "bet",
+            "translation": "закладатися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To risk money on the result of an event."
+        },
+        {
+            "word": "bias",
+            "translation": "упередженість",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "An unfair preference for or against something."
+        },
+        {
+            "word": "bid",
+            "translation": "заявка",
+            "category": "Work",
+            "type": "noun",
+            "definition": "An offer to pay a certain amount for something."
+        },
+        {
+            "word": "bond",
+            "translation": "зв’язок",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A strong connection or relationship between people."
+        },
+        {
+            "word": "bound",
+            "translation": "пов’язаний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Tied or connected to something."
+        },
+        {
+            "word": "brief",
+            "translation": "короткий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Lasting only a short time."
+        },
+        {
+            "word": "broad",
+            "translation": "широкий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Having a large distance from side to side."
+        },
+        {
+            "word": "budget",
+            "translation": "бюджет",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A plan for how money will be spent."
+        },
+        {
+            "word": "burn",
+            "translation": "горіти",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To be on fire or become damaged by heat."
+        },
+        {
+            "word": "cancer",
+            "translation": "рак",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A serious disease caused by uncontrolled cell growth."
+        },
+        {
+            "word": "capacity",
+            "translation": "місткість",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "The maximum amount that something can hold."
+        },
+        {
+            "word": "capture",
+            "translation": "захоплювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To catch or take control of something."
+        },
+        {
+            "word": "cast",
+            "translation": "кидати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To throw something with force."
+        },
+        {
+            "word": "certificate",
+            "translation": "сертифікат",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "An official document proving achievement or ownership."
+        },
+        {
+            "word": "chairman",
+            "translation": "голова",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A person who leads a meeting or organization."
+        },
+        {
+            "word": "chart",
+            "translation": "діаграма",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A visual display of information, usually as a graph or table."
+        },
+        {
+            "word": "cheer",
+            "translation": "підбадьорювати",
+            "category": "Emotions/qualities",
+            "type": "verb",
+            "definition": "To make someone feel happier or to show support."
+        },
+        {
+            "word": "chief",
+            "translation": "головний",
+            "category": "Work",
+            "type": "adjective",
+            "definition": "Most important; main."
+        },
+        {
+            "word": "chop",
+            "translation": "рубати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To cut something into small pieces with a sharp tool."
+        },
+        {
+            "word": "circuit",
+            "translation": "електричне коло",
+            "category": "Technology/devices",
+            "type": "noun",
+            "definition": "A complete path for an electric current."
+        },
+        {
+            "word": "circumstance",
+            "translation": "обставина",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A condition or fact affecting a situation."
+        },
+        {
+            "word": "cite",
+            "translation": "цитувати",
+            "category": "Literature",
+            "type": "verb",
+            "definition": "To mention something as evidence or an example."
+        },
+        {
+            "word": "citizen",
+            "translation": "громадянин",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A person who belongs to a particular country."
+        },
+        {
+            "word": "civil",
+            "translation": "цивільний",
+            "category": "Characteristics",
+            "type": "adjective",
+            "definition": "Relating to ordinary citizens and their concerns."
+        },
+        {
+            "word": "civilization",
+            "translation": "цивілізація",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A society with an advanced culture, government, and technology."
+        },
+        {
+            "word": "clarify",
+            "translation": "пояснювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To make something clear and easy to understand."
+        },
+        {
+            "word": "classify",
+            "translation": "класифікувати",
+            "category": "School",
+            "type": "verb",
+            "definition": "To arrange or organize by categories."
+        },
+        {
+            "word": "coincidence",
+            "translation": "випадковий збіг",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A situation where events happen at the same time by chance."
+        },
+        {
+            "word": "collapse",
+            "translation": "руйнуватися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To fall down or fail suddenly."
+        },
+        {
+            "word": "combination",
+            "translation": "поєднання",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A mixture or joining of two or more things."
+        },
+        {
+            "word": "commission",
+            "translation": "комісія",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A group given authority to perform a task or an amount of money earned for a sale."
+        },
+        {
+            "word": "commitment",
+            "translation": "зобов’язання",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A strong dedication to a cause or task."
+        },
+        {
+            "word": "committee",
+            "translation": "комітет",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A group of people chosen to make decisions or organize something."
+        },
+        {
+            "word": "commonly",
+            "translation": "зазвичай",
+            "category": "Adverbs",
+            "type": "adverb",
+            "definition": "Usually; often found or seen."
+        },
+        {
+            "word": "comparative",
+            "translation": "порівняльний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Relating to comparing one thing with another."
+        },
+        {
+            "word": "completion",
+            "translation": "завершення",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The act of finishing something."
+        },
+        {
+            "word": "complex",
+            "translation": "складний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Not simple; having many parts or details."
+        },
+        {
+            "word": "complicated",
+            "translation": "ускладнений",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Hard to understand or deal with."
+        },
+        {
+            "word": "component",
+            "translation": "складова частина",
+            "category": "Technology/devices",
+            "type": "noun",
+            "definition": "One part of a system or machine."
+        },
+        {
+            "word": "compose",
+            "translation": "складати",
+            "category": "Art",
+            "type": "verb",
+            "definition": "To create music, writing, or a piece of art."
+        },
+        {
+            "word": "compound",
+            "translation": "сполука",
+            "category": "Technology/devices",
+            "type": "noun",
+            "definition": "A substance formed by combining two or more elements."
+        },
+        {
+            "word": "comprehensive",
+            "translation": "всебічний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Complete and including everything necessary."
+        },
+        {
+            "word": "comprise",
+            "translation": "складатися з",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To consist of or include."
+        },
+        {
+            "word": "compulsory",
+            "translation": "обов’язковий",
+            "category": "School",
+            "type": "adjective",
+            "definition": "Required by rule or law."
+        },
+        {
+            "word": "concentration",
+            "translation": "концентрація",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The act of focusing attention on something."
+        },
+        {
+            "word": "concrete",
+            "translation": "бетон",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A hard building material made from cement and stones."
+        },
+        {
+            "word": "conduct",
+            "translation": "проводити",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To organize or carry out an activity."
+        },
+        {
+            "word": "confess",
+            "translation": "зізнаватися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To admit that something is true or that you did something wrong."
+        },
+        {
+            "word": "consequently",
+            "translation": "внаслідок цього",
+            "category": "Adverbs",
+            "type": "adverb",
+            "definition": "As a result; therefore."
+        },
+        {
+            "word": "conservation",
+            "translation": "збереження",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The protection of natural resources and the environment."
+        },
+        {
+            "word": "consistently",
+            "translation": "послідовно",
+            "category": "Adverbs",
+            "type": "adverb",
+            "definition": "In a regular and dependable way."
+        },
+        {
+            "word": "construct",
+            "translation": "будувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To build or create something."
+        },
+        {
+            "word": "construction",
+            "translation": "будівництво",
+            "category": "Work",
+            "type": "noun",
+            "definition": "The process of building something."
+        },
+        {
+            "word": "consumption",
+            "translation": "споживання",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The use of goods or resources."
+        },
+        {
+            "word": "contemporary",
+            "translation": "сучасний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Belonging to the same period; modern."
+        },
+        {
+            "word": "contest",
+            "translation": "змагання",
+            "category": "Sport",
+            "type": "noun",
+            "definition": "A competition between people."
+        },
+        {
+            "word": "controversial",
+            "translation": "суперечливий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Causing public disagreement or debate."
+        },
+        {
+            "word": "controversy",
+            "translation": "суперечка",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A strong public disagreement about something."
+        },
+        {
+            "word": "convenience",
+            "translation": "зручність",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The state of being easy to use or access."
+        },
+        {
+            "word": "convention",
+            "translation": "з’їзд",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A large formal meeting of people."
+        },
+        {
+            "word": "conventional",
+            "translation": "традиційний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Following accepted customs or practices."
+        },
+        {
+            "word": "convert",
+            "translation": "перетворювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To change something into another form or use."
+        },
+        {
+            "word": "convey",
+            "translation": "передавати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To communicate or express an idea or message."
+        },
+        {
+            "word": "convinced",
+            "translation": "переконаний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Completely sure of something."
+        },
+        {
+            "word": "cope",
+            "translation": "справлятися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To manage difficult situations successfully."
+        },
+        {
+            "word": "core",
+            "translation": "ядро",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "The central or most important part of something."
+        },
+        {
+            "word": "corporate",
+            "translation": "корпоративний",
+            "category": "Work",
+            "type": "adjective",
+            "definition": "Relating to a large company or business."
+        },
+        {
+            "word": "criterion",
+            "translation": "критерій",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A standard used for judging or making a decision."
+        },
+        {
+            "word": "crucial",
+            "translation": "вирішальний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Extremely important."
+        },
+        {
+            "word": "cue",
+            "translation": "сигнал",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A signal or hint for someone to act or speak."
+        },
+        {
+            "word": "cure",
+            "translation": "лікувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To make someone healthy again."
+        },
+        {
+            "word": "curriculum",
+            "translation": "навчальна програма",
+            "category": "School",
+            "type": "noun",
+            "definition": "The subjects studied in a course or school."
+        },
+        {
+            "word": "curve",
+            "translation": "вигин",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A smooth, rounded line or shape."
+        },
+        {
+            "word": "curved",
+            "translation": "вигнутий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Having a smooth, rounded shape."
+        },
+        {
+            "word": "dairy",
+            "translation": "молочний",
+            "category": "Food",
+            "type": "adjective",
+            "definition": "Made from milk or related to milk products."
+        },
+        {
+            "word": "dare",
+            "translation": "наважитися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To have the courage to do something difficult or risky."
+        },
+        {
+            "word": "debt",
+            "translation": "борг",
+            "category": "Economics/finance",
+            "type": "noun",
+            "definition": "Money that is owed to another person or organization."
+        },
+        {
+            "word": "decent",
+            "translation": "пристойний",
+            "category": "Characteristics",
+            "type": "adjective",
+            "definition": "Good, honest, or acceptable in quality or behavior."
+        },
+        {
+            "word": "deck",
+            "translation": "палуба",
+            "category": "Transport",
+            "type": "noun",
+            "definition": "The flat surface on a ship or bus where people stand or sit."
+        },
+        {
+            "word": "declare",
+            "translation": "оголошувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To announce something officially or publicly."
+        },
+        {
+            "word": "decline",
+            "translation": "спадати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To decrease in value, number, or quality."
+        },
+        {
+            "word": "decrease",
+            "translation": "зменшувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To make something smaller or less in amount."
+        },
+        {
+            "word": "defend",
+            "translation": "захищати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To protect someone or something from harm or attack."
+        },
+        {
+            "word": "delay",
+            "translation": "затримувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To make something happen later than planned."
+        },
+        {
+            "word": "deliberate",
+            "translation": "навмисний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Done on purpose and not by accident."
+        },
+        {
+            "word": "deliberately",
+            "translation": "навмисно",
+            "category": "Adverbs",
+            "type": "adverb",
+            "definition": "Done intentionally or on purpose."
+        },
+        {
+            "word": "dependent",
+            "translation": "залежний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Needing someone or something in order to function or survive."
+        },
+        {
+            "word": "depth",
+            "translation": "глибина",
+            "category": "Geography",
+            "type": "noun",
+            "definition": "The distance from the top to the bottom of something."
+        },
+        {
+            "word": "derive",
+            "translation": "походити від",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To come or develop from a particular source."
+        },
+        {
+            "word": "desert",
+            "translation": "пустеля",
+            "category": "Geography",
+            "type": "noun",
+            "definition": "A large, dry area of land with little or no rain."
+        },
+        {
+            "word": "desperate",
+            "translation": "відчайдушний",
+            "category": "Emotions/qualities",
+            "type": "adjective",
+            "definition": "Feeling or showing a hopeless need or desire."
+        },
+        {
+            "word": "determination",
+            "translation": "рішучість",
+            "category": "Emotions/qualities",
+            "type": "noun",
+            "definition": "The quality of trying hard to achieve something despite difficulty."
+        },
+        {
+            "word": "devote",
+            "translation": "присвячувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To give time, energy, or attention to something or someone."
+        },
+        {
+            "word": "differ",
+            "translation": "відрізнятися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To be different from someone or something."
+        },
+        {
+            "word": "dime",
+            "translation": "десять центів",
+            "category": "Economics/finance",
+            "type": "noun",
+            "definition": "A coin worth ten cents in the U.S."
+        },
+        {
+            "word": "disability",
+            "translation": "інвалідність",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A physical or mental condition that limits abilities."
+        },
+        {
+            "word": "disabled",
+            "translation": "інвалід",
+            "category": "Characteristics",
+            "type": "adjective",
+            "definition": "Having a physical or mental condition that limits normal activities."
+        },
+        {
+            "word": "disagreement",
+            "translation": "незгода",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A situation where people have different opinions."
+        },
+        {
+            "word": "discount",
+            "translation": "знижка",
+            "category": "Economics/finance",
+            "type": "noun",
+            "definition": "A reduction in the regular price of something."
+        },
+        {
+            "word": "discourage",
+            "translation": "знеохочувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To make someone less confident or less willing to do something."
+        },
+        {
+            "word": "dishonest",
+            "translation": "нечесний",
+            "category": "Characteristics",
+            "type": "adjective",
+            "definition": "Not truthful or trustworthy."
+        },
+        {
+            "word": "dismiss",
+            "translation": "звільняти",
+            "category": "Work",
+            "type": "verb",
+            "definition": "To remove someone from a job or position."
+        },
+        {
+            "word": "disorder",
+            "translation": "порушення",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A state of confusion or a medical problem."
+        },
+        {
+            "word": "distinct",
+            "translation": "окремий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Clearly different or separate."
+        },
+        {
+            "word": "distinguish",
+            "translation": "розрізняти",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To recognize the difference between two or more things."
+        },
+        {
+            "word": "distract",
+            "translation": "відволікати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To take someone’s attention away from something."
+        },
+        {
+            "word": "distribute",
+            "translation": "розповсюджувати",
+            "category": "Work",
+            "type": "verb",
+            "definition": "To give or deliver things to people."
+        },
+        {
+            "word": "district",
+            "translation": "район",
+            "category": "Places",
+            "type": "noun",
+            "definition": "An area of a city or country used for administrative purposes."
+        },
+        {
+            "word": "disturb",
+            "translation": "турбувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To interrupt or make someone feel anxious."
+        },
+        {
+            "word": "diverse",
+            "translation": "різноманітний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Showing variety; very different from each other."
+        },
+        {
+            "word": "diversity",
+            "translation": "різноманітність",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A variety of different people or things."
+        },
+        {
+            "word": "divide",
+            "translation": "ділити",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To separate into parts or groups."
+        },
+        {
+            "word": "division",
+            "translation": "поділ",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The act or process of dividing something."
+        },
+        {
+            "word": "domestic",
+            "translation": "домашній",
+            "category": "Characteristics",
+            "type": "adjective",
+            "definition": "Relating to the home or family life."
+        },
+        {
+            "word": "dozen",
+            "translation": "дюжина",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A group or set of twelve things."
+        },
+        {
+            "word": "draft",
+            "translation": "чернетка",
+            "category": "Literature",
+            "type": "noun",
+            "definition": "A rough written version of something that is not yet finished."
+        },
+        {
+            "word": "drag",
+            "translation": "тягнути",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To pull something along the ground with effort."
+        },
+        {
+            "word": "drought",
+            "translation": "посуха",
+            "category": "Weather/seasons",
+            "type": "noun",
+            "definition": "A long period without rain."
+        },
+        {
+            "word": "dull",
+            "translation": "нудний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Not interesting or not bright or sharp."
+        },
+        {
+            "word": "dump",
+            "translation": "викидати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To get rid of something unwanted."
+        },
+        {
+            "word": "duration",
+            "translation": "тривалість",
+            "category": "Time",
+            "type": "noun",
+            "definition": "The length of time something continues."
+        },
+        {
+            "word": "dynamic",
+            "translation": "енергійний",
+            "category": "Characteristics",
+            "type": "adjective",
+            "definition": "Full of energy, movement, or change."
+        },
+        {
+            "word": "eager",
+            "translation": "нетерплячий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Wanting to do or have something very much."
+        },
+        {
+            "word": "economist",
+            "translation": "економіст",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A person who studies or works in economics."
+        },
+        {
+            "word": "edit",
+            "translation": "редагувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To prepare text, film, or data by correcting or modifying it."
+        },
+        {
+            "word": "edition",
+            "translation": "видання",
+            "category": "Literature",
+            "type": "noun",
+            "definition": "A particular version of a book or newspaper."
+        },
+        {
+            "word": "editorial",
+            "translation": "редакційний",
+            "category": "Literature",
+            "type": "adjective",
+            "definition": "Relating to editing or to the editor of a publication."
+        },
+        {
+            "word": "efficient",
+            "translation": "ефективний",
+            "category": "Characteristics",
+            "type": "adjective",
+            "definition": "Working well and producing good results with little waste."
+        },
+        {
+            "word": "efficiently",
+            "translation": "ефективно",
+            "category": "Adverbs",
+            "type": "adverb",
+            "definition": "In a way that achieves maximum productivity with minimum waste."
+        },
+        {
+            "word": "elbow",
+            "translation": "лікоть",
+            "category": "Body parts",
+            "type": "noun",
+            "definition": "The joint between the upper and lower parts of the arm."
+        },
+        {
+            "word": "elderly",
+            "translation": "похилого віку",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Old or aging."
+        },
+        {
+            "word": "elect",
+            "translation": "обирати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To choose someone for a position by voting."
+        },
+        {
+            "word": "eliminate",
+            "translation": "усувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To remove or get rid of something."
+        },
+        {
+            "word": "embrace",
+            "translation": "обіймати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To hold someone closely; to accept an idea willingly."
+        },
+        {
+            "word": "emerge",
+            "translation": "з'являтися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To come out or become known."
+        },
+        {
+            "word": "emission",
+            "translation": "викид",
+            "category": "Science",
+            "type": "noun",
+            "definition": "The act of sending out gas, heat, or light."
+        },
+        {
+            "word": "emphasis",
+            "translation": "наголос, акцент",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Special importance given to something."
+        },
+        {
+            "word": "emphasize",
+            "translation": "підкреслювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To give special importance to something."
+        },
+        {
+            "word": "empire",
+            "translation": "імперія",
+            "category": "Geography",
+            "type": "noun",
+            "definition": "A group of countries controlled by one ruler."
+        },
+        {
+            "word": "enable",
+            "translation": "дозволяти",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To make something possible."
+        },
+        {
+            "word": "encounter",
+            "translation": "зустрічати, стикатися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To meet or experience something unexpectedly."
+        },
+        {
+            "word": "engage",
+            "translation": "залучати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To involve or attract attention or interest."
+        },
+        {
+            "word": "enhance",
+            "translation": "покращувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To improve the quality or value of something."
+        },
+        {
+            "word": "enquiry",
+            "translation": "запит",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A question or investigation."
+        },
+        {
+            "word": "ensure",
+            "translation": "забезпечувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To make certain that something will happen."
+        },
+        {
+            "word": "enthusiastic",
+            "translation": "ентузіастичний",
+            "category": "Characteristics",
+            "type": "adjective",
+            "definition": "Full of excitement and interest."
+        },
+        {
+            "word": "entire",
+            "translation": "повний, цілий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Whole or complete."
+        },
+        {
+            "word": "entirely",
+            "translation": "повністю",
+            "category": "Adverbs",
+            "type": "adverb",
+            "definition": "Completely or fully."
+        },
+        {
+            "word": "entrepreneur",
+            "translation": "підприємець",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A person who starts and runs a business."
+        },
+        {
+            "word": "envelope",
+            "translation": "конверт",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A paper cover used to send letters."
+        },
+        {
+            "word": "equip",
+            "translation": "оснащувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To provide with necessary items."
+        },
+        {
+            "word": "equivalent",
+            "translation": "еквівалент",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Something equal in value, amount, or meaning."
+        },
+        {
+            "word": "erupt",
+            "translation": "вивергатися",
+            "category": "Nature/plants",
+            "type": "verb",
+            "definition": "To explode or burst out suddenly, like a volcano."
+        },
+        {
+            "word": "essentially",
+            "translation": "по суті",
+            "category": "Adverbs",
+            "type": "adverb",
+            "definition": "Basically or fundamentally."
+        },
+        {
+            "word": "estate",
+            "translation": "маєток, нерухомість",
+            "category": "Places",
+            "type": "noun",
+            "definition": "A large area of land or property."
+        },
+        {
+            "word": "estimate",
+            "translation": "оцінювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To roughly calculate the value or amount of something."
+        },
+        {
+            "word": "ethic",
+            "translation": "етика",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Moral principles that guide behavior."
+        },
+        {
+            "word": "ethical",
+            "translation": "етичний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Relating to moral principles."
+        },
+        {
+            "word": "ethnic",
+            "translation": "етнічний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Relating to a particular race or culture."
+        },
+        {
+            "word": "evaluate",
+            "translation": "оцінювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To judge or calculate the value of something."
+        },
+        {
+            "word": "evaluation",
+            "translation": "оцінка",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The process of judging or assessing something."
+        },
+        {
+            "word": "even",
+            "translation": "навіть",
+            "category": "Adverbs",
+            "type": "adverb",
+            "definition": "Used to emphasize something surprising."
+        },
+        {
+            "word": "evident",
+            "translation": "очевидний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Clear or easy to see."
+        },
+        {
+            "word": "evolution",
+            "translation": "еволюція",
+            "category": "Science",
+            "type": "noun",
+            "definition": "The process of gradual change in living things."
+        },
+        {
+            "word": "exceed",
+            "translation": "перевищувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To go beyond a limit or expectation."
+        },
+        {
+            "word": "exception",
+            "translation": "виняток",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Something not included in a general rule."
+        },
+        {
+            "word": "excessive",
+            "translation": "надмірний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Too much; more than is reasonable."
+        },
+        {
+            "word": "exclude",
+            "translation": "виключати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To leave out or not include."
+        },
+        {
+            "word": "excuse",
+            "translation": "виправдання",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A reason given to explain a mistake or offense."
+        },
+        {
+            "word": "executive",
+            "translation": "керівник",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A person with senior managerial responsibility."
+        },
+        {
+            "word": "existence",
+            "translation": "існування",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The state of being alive or present."
+        },
+        {
+            "word": "expansion",
+            "translation": "розширення",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The process of increasing in size or amount."
+        },
+        {
+            "word": "expectation",
+            "translation": "очікування",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A belief that something will happen."
+        },
+        {
+            "word": "expedition",
+            "translation": "експедиція",
+            "category": "Travel",
+            "type": "noun",
+            "definition": "A journey with a specific purpose, often exploration."
+        },
+        {
+            "word": "expense",
+            "translation": "витрата",
+            "category": "Economics/finance",
+            "type": "noun",
+            "definition": "The cost required for something."
+        },
+        {
+            "word": "exploit",
+            "translation": "використовувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To make full use of or take unfair advantage of something."
+        },
+        {
+            "word": "expose",
+            "translation": "викривати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To reveal or uncover something hidden."
+        },
+        {
+            "word": "exposure",
+            "translation": "вплив, розкриття",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The state of being visible or affected by something."
+        },
+        {
+            "word": "extend",
+            "translation": "розширювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To make something longer or larger."
+        },
+        {
+            "word": "extension",
+            "translation": "розширення",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "An increase in length or duration."
+        },
+        {
+            "word": "extensive",
+            "translation": "широкий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Large in amount or range."
+        },
+        {
+            "word": "fabulous",
+            "translation": "чудовий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Extremely good or impressive."
+        },
+        {
+            "word": "facility",
+            "translation": "споруда / об’єкт",
+            "category": "Places",
+            "type": "noun",
+            "definition": "A building or place designed for a particular purpose."
+        },
+        {
+            "word": "faculty",
+            "translation": "факультет",
+            "category": "School",
+            "type": "noun",
+            "definition": "A department or group of teachers in a university."
+        },
+        {
+            "word": "failed",
+            "translation": "невдалий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Not successful in achieving something."
+        },
+        {
+            "word": "faith",
+            "translation": "віра",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Strong belief or trust in something or someone."
+        },
+        {
+            "word": "fare",
+            "translation": "плата за проїзд",
+            "category": "Transport",
+            "type": "noun",
+            "definition": "The money paid for a journey on public transport."
+        },
+        {
+            "word": "fault",
+            "translation": "помилка / вина",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Responsibility for a mistake or wrong action."
+        },
+        {
+            "word": "favour",
+            "translation": "прихильність / послуга",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A kind or helpful act; support or approval."
+        },
+        {
+            "word": "fee",
+            "translation": "плата / внесок",
+            "category": "Work",
+            "type": "noun",
+            "definition": "Money paid for a service or professional advice."
+        },
+        {
+            "word": "fellow",
+            "translation": "товариш / колега",
+            "category": "People",
+            "type": "noun",
+            "definition": "A person who shares a common activity, interest, or situation."
+        },
+        {
+            "word": "finding",
+            "translation": "знахідка / висновок",
+            "category": "Science",
+            "type": "noun",
+            "definition": "Information or result discovered through research or investigation."
+        },
+        {
+            "word": "firm",
+            "translation": "фірма / компанія",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A business organization."
+        },
+        {
+            "word": "firmly",
+            "translation": "твердо / рішуче",
+            "category": "Adverbs",
+            "type": "adverb",
+            "definition": "In a strong, steady, or determined way."
+        },
+        {
+            "word": "fond",
+            "translation": "приємно ставитися",
+            "category": "Emotions/qualities",
+            "type": "adjective",
+            "definition": "Having an affection or liking for someone or something."
+        },
+        {
+            "word": "forbid",
+            "translation": "забороняти",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To order someone not to do something."
+        },
+        {
+            "word": "formation",
+            "translation": "утворення / структура",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The process of being formed or the structure created."
+        },
+        {
+            "word": "former",
+            "translation": "колишній",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Having been something in the past."
+        },
+        {
+            "word": "fortune",
+            "translation": "удача / статок",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A large amount of money or good luck."
+        },
+        {
+            "word": "fossil",
+            "translation": "скам’янілість",
+            "category": "Science",
+            "type": "noun",
+            "definition": "The remains of ancient plants or animals preserved in rock."
+        },
+        {
+            "word": "foundation",
+            "translation": "фундамент / основа",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The base or underlying support of something."
+        },
+        {
+            "word": "founder",
+            "translation": "засновник",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A person who establishes an organization or company."
+        },
+        {
+            "word": "fraction",
+            "translation": "дріб / частина",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A small part of a whole; a number representing part of a whole."
+        },
+        {
+            "word": "framework",
+            "translation": "структура / каркас",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A basic structure that supports a system, idea, or concept."
+        },
+        {
+            "word": "fraud",
+            "translation": "шахрайство",
+            "category": "Work",
+            "type": "noun",
+            "definition": "The crime of gaining money or advantage by deceiving people."
+        },
+        {
+            "word": "frequency",
+            "translation": "частота",
+            "category": "Science",
+            "type": "noun",
+            "definition": "The number of times something happens in a period of time."
+        },
+        {
+            "word": "fuel",
+            "translation": "паливо",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A substance used to produce energy or power."
+        },
+        {
+            "word": "function",
+            "translation": "функція",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The purpose or role that something has."
+        },
+        {
+            "word": "fund",
+            "translation": "фонд / фінансувати",
+            "category": "Economics/finance",
+            "type": "noun",
+            "definition": "An amount of money saved or made available for a specific purpose."
+        },
+        {
+            "word": "fundamental",
+            "translation": "основний / базовий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Forming the basic or most important part of something."
+        },
+        {
+            "word": "funding",
+            "translation": "фінансування",
+            "category": "Economics/finance",
+            "type": "noun",
+            "definition": "Money provided for a particular purpose."
+        },
+        {
+            "word": "gallon",
+            "translation": "галон",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A unit for measuring liquid volume, equal to about 3.8 liters."
+        },
+        {
+            "word": "gene",
+            "translation": "ген",
+            "category": "Science",
+            "type": "noun",
+            "definition": "A part of DNA that determines characteristics or traits."
+        },
+        {
+            "word": "genetic",
+            "translation": "генетичний",
+            "category": "Science",
+            "type": "adjective",
+            "definition": "Related to genes or heredity."
+        },
+        {
+            "word": "genius",
+            "translation": "геній",
+            "category": "Characteristics",
+            "type": "noun",
+            "definition": "An extremely intelligent or talented person."
+        },
+        {
+            "word": "genuine",
+            "translation": "щирий / справжній",
+            "category": "Characteristics",
+            "type": "adjective",
+            "definition": "Real, honest, or sincere."
+        },
+        {
+            "word": "gesture",
+            "translation": "жест",
+            "category": "Body parts",
+            "type": "noun",
+            "definition": "A movement of part of the body to express an idea or feeling."
+        },
+        {
+            "word": "globalization",
+            "translation": "глобалізація",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The process of interaction and integration among countries worldwide."
+        },
+        {
+            "word": "globe",
+            "translation": "глобус / світ",
+            "category": "Geography",
+            "type": "noun",
+            "definition": "A spherical model of the Earth."
+        },
+        {
+            "word": "govern",
+            "translation": "керувати / управляти",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To rule or control a country or organization."
+        },
+        {
+            "word": "gradually",
+            "translation": "поступово",
+            "category": "Adverbs",
+            "type": "adverb",
+            "definition": "Slowly over a period of time."
+        },
+        {
+            "word": "grant",
+            "translation": "грант / надавати",
+            "category": "Work",
+            "type": "noun",
+            "definition": "An amount of money given for a specific purpose."
+        },
+        {
+            "word": "graphic",
+            "translation": "графічний / візуальний",
+            "category": "Art",
+            "type": "adjective",
+            "definition": "Relating to visual art, such as drawing or design."
+        },
+        {
+            "word": "graphics",
+            "translation": "графіка",
+            "category": "Technology/devices",
+            "type": "noun",
+            "definition": "Images or designs used in visual displays or computer art."
+        },
+        {
+            "word": "guarantee",
+            "translation": "гарантія / гарантувати",
+            "category": "Work",
+            "type": "verb",
+            "definition": "To promise that something will happen or be of good quality."
+        },
+        {
+            "word": "guideline",
+            "translation": "керівний принцип / інструкція",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A rule or instruction to help decide what to do."
+        },
+        {
+            "word": "habitat",
+            "translation": "середовище існування",
+            "category": "Nature/plants",
+            "type": "noun",
+            "definition": "The natural home or environment of an animal or plant."
+        },
+        {
+            "word": "harbour",
+            "translation": "гавань / порт",
+            "category": "Geography",
+            "type": "noun",
+            "definition": "A place on the coast where ships can stay safely."
+        },
+        {
+            "word": "hearing",
+            "translation": "слух",
+            "category": "Body parts",
+            "type": "noun",
+            "definition": "The ability to hear sounds."
+        },
+        {
+            "word": "heel",
+            "translation": "п’ята / каблук",
+            "category": "Body parts",
+            "type": "noun",
+            "definition": "The back part of the foot or shoe."
+        },
+        {
+            "word": "herb",
+            "translation": "трава / лікарська рослина",
+            "category": "Nature/plants",
+            "type": "noun",
+            "definition": "A plant used for flavoring food or for medicine."
+        },
+        {
+            "word": "hesitate",
+            "translation": "вагатися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To pause before doing something because of uncertainty."
+        },
+        {
+            "word": "hip",
+            "translation": "стегно",
+            "category": "Body parts",
+            "type": "noun",
+            "definition": "The part of the body below the waist and above the leg."
+        },
+        {
+            "word": "hire",
+            "translation": "наймати / орендувати",
+            "category": "Work",
+            "type": "verb",
+            "definition": "To employ someone or pay to use something."
+        },
+        {
+            "word": "hollow",
+            "translation": "порожній / порожнина",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Having an empty space inside."
+        },
+        {
+            "word": "hook",
+            "translation": "гачок",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A curved piece of metal or plastic used for hanging or catching things."
+        },
+        {
+            "word": "housing",
+            "translation": "житло",
+            "category": "Places",
+            "type": "noun",
+            "definition": "Buildings for people to live in."
+        },
+        {
+            "word": "humorous",
+            "translation": "гумористичний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Funny or amusing."
+        },
+        {
+            "word": "hypothesis",
+            "translation": "гіпотеза",
+            "category": "Science",
+            "type": "noun",
+            "definition": "An idea or explanation that can be tested by study or experiment."
+        },
+        {
+            "word": "ideal",
+            "translation": "ідеальний / ідеал",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Perfect or most suitable."
+        },
+        {
+            "word": "identical",
+            "translation": "ідентичний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Exactly the same as something else."
+        },
+        {
+            "word": "imagination",
+            "translation": "уява",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The ability to form ideas or images in your mind."
+        },
+        {
+            "word": "immigration",
+            "translation": "імміграція",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The action of moving to live in a foreign country."
+        },
+        {
+            "word": "immune",
+            "translation": "імунний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Protected against a disease or the effects of something."
+        },
+        {
+            "word": "impatient",
+            "translation": "нетерплячий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Easily annoyed by delay or waiting."
+        },
+        {
+            "word": "implement",
+            "translation": "здійснювати / інструмент",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To put a plan or decision into effect."
+        },
+        {
+            "word": "implication",
+            "translation": "наслідок / прихований зміст",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A possible effect or result of an action or decision."
+        },
+        {
+            "word": "imply",
+            "translation": "натякати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To suggest something without saying it directly."
+        },
+        {
+            "word": "impose",
+            "translation": "нав’язувати / застосовувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To force something to be accepted or put in place."
+        },
+        {
+            "word": "impress",
+            "translation": "вражати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To make someone admire or respect you."
+        },
+        {
+            "word": "incentive",
+            "translation": "стимул",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Something that encourages someone to do something."
+        },
+        {
+            "word": "inch",
+            "translation": "дюйм",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A unit of measurement equal to 2.54 cm."
+        },
+        {
+            "word": "incident",
+            "translation": "інцидент / випадок",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "An event, often unusual or problematic."
+        },
+        {
+            "word": "incorporate",
+            "translation": "включати / об’єднувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To include or integrate something into a whole."
+        },
+        {
+            "word": "inevitable",
+            "translation": "неминучий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Certain to happen; unavoidable."
+        },
+        {
+            "word": "infer",
+            "translation": "робити висновок",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To conclude information from evidence and reasoning."
+        },
+        {
+            "word": "inhabitant",
+            "translation": "мешканець",
+            "category": "People",
+            "type": "noun",
+            "definition": "A person or animal that lives in a particular place."
+        },
+        {
+            "word": "initial",
+            "translation": "початковий / перший",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Existing at the beginning; first."
+        },
+        {
+            "word": "initiative",
+            "translation": "ініціатива",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A plan or action taken to solve a problem or achieve a goal."
+        },
+        {
+            "word": "innovation",
+            "translation": "інновація",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The introduction of new ideas or methods."
+        },
+        {
+            "word": "insight",
+            "translation": "проникливість / розуміння",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A deep understanding of a person or situation."
+        },
+        {
+            "word": "install",
+            "translation": "встановлювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To set up equipment or software for use."
+        },
+        {
+            "word": "institute",
+            "translation": "інститут",
+            "category": "School",
+            "type": "noun",
+            "definition": "An organization for education or research."
+        },
+        {
+            "word": "institution",
+            "translation": "установа",
+            "category": "Places",
+            "type": "noun",
+            "definition": "An organization established for a particular purpose."
+        },
+        {
+            "word": "intended",
+            "translation": "передбачений / призначений",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Planned or meant for a particular purpose."
+        },
+        {
+            "word": "internal",
+            "translation": "внутрішній",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Located inside something; relating to the inside."
+        },
+        {
+            "word": "invade",
+            "translation": "вторгатися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To enter a place by force with an army or unwanted presence."
+        },
+        {
+            "word": "isolate",
+            "translation": "ізолювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To separate someone or something from others."
+        },
+        {
+            "word": "joint",
+            "translation": "суглоб / спільний",
+            "category": "Body parts",
+            "type": "noun",
+            "definition": "The part of the body where two bones meet; also means shared."
+        },
+        {
+            "word": "judgement",
+            "translation": "судження / оцінка",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The ability to make decisions or form opinions."
+        },
+        {
+            "word": "jury",
+            "translation": "журі / присяжні",
+            "category": "People",
+            "type": "noun",
+            "definition": "A group of people who decide the result in a court or competition."
+        },
+        {
+            "word": "justify",
+            "translation": "виправдовувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To show or prove that something is right or reasonable."
+        },
+        {
+            "word": "kit",
+            "translation": "набір / комплект",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A set of tools or equipment used for a particular purpose."
+        },
+        {
+            "word": "labour",
+            "translation": "праця",
+            "category": "Work",
+            "type": "noun",
+            "definition": "Physical or mental effort used to achieve something."
+        },
+        {
+            "word": "landing",
+            "translation": "приземлення / сходовий майданчик",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The act of arriving on the ground or a platform at the top of stairs."
+        },
+        {
+            "word": "lane",
+            "translation": "смуга / провулок",
+            "category": "Places",
+            "type": "noun",
+            "definition": "A narrow road or path; a marked section of a road."
+        },
+        {
+            "word": "limitation",
+            "translation": "обмеження",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A restriction or boundary that prevents something from being done."
+        },
+        {
+            "word": "literary",
+            "translation": "літературний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Related to literature."
+        },
+        {
+            "word": "loose",
+            "translation": "вільний / розпущений",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Not tight or firmly fixed."
+        },
+        {
+            "word": "lyric",
+            "translation": "лірика / текст пісні",
+            "category": "Literature",
+            "type": "noun",
+            "definition": "Words of a song or a type of expressive poetry."
+        },
+        {
+            "word": "maintain",
+            "translation": "підтримувати / зберігати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To keep something in good condition or continue a situation."
+        },
+        {
+            "word": "majority",
+            "translation": "більшість",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "More than half of a group."
+        },
+        {
+            "word": "manufacture",
+            "translation": "виробляти",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To produce goods in large quantities using machinery."
+        },
+        {
+            "word": "margin",
+            "translation": "поля / різниця",
+            "category": "Literature",
+            "type": "noun",
+            "definition": "The edge or border of something; a difference between values."
+        },
+        {
+            "word": "martial",
+            "translation": "воєнний / бойовий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Relating to war or the military."
+        },
+        {
+            "word": "means",
+            "translation": "засіб / метод",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A method or way of achieving something."
+        },
+        {
+            "word": "measurement",
+            "translation": "вимірювання",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The act or process of measuring something."
+        },
+        {
+            "word": "mechanic",
+            "translation": "механік",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A person who repairs or maintains machinery."
+        },
+        {
+            "word": "mechanical",
+            "translation": "механічний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Relating to machines or machinery."
+        },
+        {
+            "word": "memorable",
+            "translation": "незабутній",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Worth remembering; remarkable."
+        },
+        {
+            "word": "metaphor",
+            "translation": "метафора",
+            "category": "Literature",
+            "type": "noun",
+            "definition": "A figure of speech comparing two different things."
+        },
+        {
+            "word": "miner",
+            "translation": "шахтар",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A person who works in a mine."
+        },
+        {
+            "word": "minority",
+            "translation": "меншість",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A smaller part of a group; less than half."
+        },
+        {
+            "word": "modest",
+            "translation": "скромний / помірний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Not showing off; moderate in size or amount."
+        },
+        {
+            "word": "modify",
+            "translation": "змінювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To make small changes to something."
+        },
+        {
+            "word": "monument",
+            "translation": "пам’ятник",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A structure built to commemorate a person or event."
+        },
+        {
+            "word": "mortgage",
+            "translation": "іпотека",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A loan used to buy property."
+        },
+        {
+            "word": "mosque",
+            "translation": "мечеть",
+            "category": "Places",
+            "type": "noun",
+            "definition": "A building for Muslim prayer."
+        },
+        {
+            "word": "mount",
+            "translation": "монтувати / піднімати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To climb, fix, or attach something."
+        },
+        {
+            "word": "multiply",
+            "translation": "множити",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To increase in number; to perform multiplication."
+        },
+        {
+            "word": "neat",
+            "translation": "акуратний / охайний",
+            "category": "Characteristics",
+            "type": "adjective",
+            "definition": "Tidy and well arranged."
+        },
+        {
+            "word": "necessity",
+            "translation": "необхідність",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Something required or essential."
+        },
+        {
+            "word": "negotiate",
+            "translation": "вести переговори",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To discuss something to reach an agreement."
+        },
+        {
+            "word": "nightmare",
+            "translation": "кошмар",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A frightening or unpleasant dream."
+        },
+        {
+            "word": "norm",
+            "translation": "норми",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A standard or usual practice."
+        },
+        {
+            "word": "notion",
+            "translation": "поняття / уявлення",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "An idea, belief, or understanding."
+        },
+        {
+            "word": "novelist",
+            "translation": "романіст",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A person who writes novels."
+        },
+        {
+            "word": "nutrition",
+            "translation": "харчування",
+            "category": "Food",
+            "type": "noun",
+            "definition": "The process of providing or obtaining the food necessary for health."
+        },
+        {
+            "word": "obey",
+            "translation": "підкорятися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To follow commands or rules."
+        },
+        {
+            "word": "objective",
+            "translation": "мета / об’єктив",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A goal or aim; the lens of a camera."
+        },
+        {
+            "word": "obligation",
+            "translation": "обов’язок",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Something that a person is required to do."
+        },
+        {
+            "word": "observation",
+            "translation": "спостереження",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The action or process of closely watching something."
+        },
+        {
+            "word": "observe",
+            "translation": "спостерігати / дотримуватися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To watch carefully; to follow rules."
+        },
+        {
+            "word": "obstacle",
+            "translation": "перешкода",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "Something that blocks progress or prevents achievement."
+        },
+        {
+            "word": "obtain",
+            "translation": "отримувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To get or acquire something."
+        },
+        {
+            "word": "occasionally",
+            "translation": "час від часу",
+            "category": "Adverbs",
+            "type": "adverb",
+            "definition": "Sometimes; not often."
+        },
+        {
+            "word": "occupation",
+            "translation": "професія / заняття",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A person’s job or regular activity."
+        },
+        {
+            "word": "offend",
+            "translation": "ображати / порушувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To cause someone to feel upset or hurt."
+        },
+        {
+            "word": "offensive",
+            "translation": "образливий / наступальний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Causing displeasure or attack."
+        },
+        {
+            "word": "official",
+            "translation": "офіційний / посадова особа",
+            "category": "Professions",
+            "type": "adjective",
+            "definition": "Approved by authority; person holding a position."
+        },
+        {
+            "word": "ongoing",
+            "translation": "триваючий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Continuing; still in progress."
+        },
+        {
+            "word": "oppose",
+            "translation": "суперечити / протидіяти",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To be against something or resist it."
+        },
+        {
+            "word": "opposed",
+            "translation": "протилежний / проти",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Being against or in conflict with."
+        },
+        {
+            "word": "origin",
+            "translation": "походження",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The beginning or source of something."
+        },
+        {
+            "word": "outcome",
+            "translation": "результат",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The result or effect of an action or event."
+        },
+        {
+            "word": "outer",
+            "translation": "зовнішній",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Situated on or toward the outside."
+        },
+        {
+            "word": "outline",
+            "translation": "контур / план",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A general description or plan showing main points."
+        },
+        {
+            "word": "owe",
+            "translation": "заборгувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To have an obligation to pay or repay."
+        },
+        {
+            "word": "palm",
+            "translation": "долоня / пальма",
+            "category": "Body parts",
+            "type": "noun",
+            "definition": "The inner surface of the hand; a type of tree."
+        },
+        {
+            "word": "parliament",
+            "translation": "парламент",
+            "category": "Places",
+            "type": "noun",
+            "definition": "The group of people who make or pass laws in a country."
+        },
+        {
+            "word": "participant",
+            "translation": "учасник",
+            "category": "People",
+            "type": "noun",
+            "definition": "A person who takes part in an event or activity."
+        },
+        {
+            "word": "passage",
+            "translation": "прохід / уривок",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A way through; a short section of text."
+        },
+        {
+            "word": "peer",
+            "translation": "одноліток / рівний",
+            "category": "People",
+            "type": "noun",
+            "definition": "A person of the same age or status."
+        },
+        {
+            "word": "perceive",
+            "translation": "сприймати / помічати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To become aware of something through the senses."
+        },
+        {
+            "word": "permit",
+            "translation": "дозволяти / дозвіл",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To allow; also a noun meaning official permission."
+        },
+        {
+            "word": "phase",
+            "translation": "фаза",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A stage in a process or development."
+        },
+        {
+            "word": "phenomenon",
+            "translation": "явище",
+            "category": "Science",
+            "type": "noun",
+            "definition": "An observable event or occurrence."
+        },
+        {
+            "word": "philosophy",
+            "translation": "філософія",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The study of fundamental questions about existence and knowledge."
+        },
+        {
+            "word": "physician",
+            "translation": "лікар",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A medical doctor."
+        },
+        {
+            "word": "pile",
+            "translation": "купа",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A collection of things stacked together."
+        },
+        {
+            "word": "pity",
+            "translation": "жаль",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A feeling of sorrow or compassion for someone."
+        },
+        {
+            "word": "placement",
+            "translation": "розміщення",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The act of putting something in a particular place."
+        },
+        {
+            "word": "plain",
+            "translation": "простий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Simple; not decorated or complicated."
+        },
+        {
+            "word": "plot",
+            "translation": "сюжет",
+            "category": "Literature",
+            "type": "noun",
+            "definition": "The main story of a book or movie."
+        },
+        {
+            "word": "possess",
+            "translation": "володіти",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To have or own something."
+        },
+        {
+            "word": "potential",
+            "translation": "потенціал",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The ability or capacity to develop or succeed."
+        },
+        {
+            "word": "precede",
+            "translation": "передувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To come before something in time or order."
+        },
+        {
+            "word": "precise",
+            "translation": "точний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Exact; clearly defined."
+        },
+        {
+            "word": "presence",
+            "translation": "присутність",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The state of being in a place or available."
+        },
+        {
+            "word": "preserve",
+            "translation": "зберігати / консервувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To keep safe, intact, or maintain."
+        },
+        {
+            "word": "presidential",
+            "translation": "президентський",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Relating to a president or presidency."
+        },
+        {
+            "word": "prior",
+            "translation": "попередній",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Earlier in time; previous."
+        },
+        {
+            "word": "priority",
+            "translation": "пріоритет",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Something that is regarded as more important than others."
+        },
+        {
+            "word": "privacy",
+            "translation": "конфіденційність",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The state of being free from public attention."
+        },
+        {
+            "word": "probability",
+            "translation": "ймовірність",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The likelihood that something will happen."
+        },
+        {
+            "word": "proceed",
+            "translation": "продовжувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To continue or go forward with an action."
+        },
+        {
+            "word": "produce",
+            "translation": "виробляти / продукція",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To create or generate something."
+        },
+        {
+            "word": "prohibit",
+            "translation": "забороняти",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To formally forbid something by law or rule."
+        },
+        {
+            "word": "promotion",
+            "translation": "підвищення / просування",
+            "category": "Work",
+            "type": "noun",
+            "definition": "Advancement in rank or position; advertising to sell something."
+        },
+        {
+            "word": "protester",
+            "translation": "протестувальник",
+            "category": "People",
+            "type": "noun",
+            "definition": "A person who publicly expresses disagreement or opposition."
+        },
+        {
+            "word": "psychological",
+            "translation": "психологічний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Relating to the mind or mental processes."
+        },
+        {
+            "word": "psychologist",
+            "translation": "психолог",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A professional who studies or practices psychology."
+        },
+        {
+            "word": "publication",
+            "translation": "публікація",
+            "category": "Literature",
+            "type": "noun",
+            "definition": "A book, journal, or article that has been published."
+        },
+        {
+            "word": "publicity",
+            "translation": "публічність / реклама",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The attention given by media to a person, event, or product."
+        },
+        {
+            "word": "publishing",
+            "translation": "видавництво",
+            "category": "Literature",
+            "type": "noun",
+            "definition": "The business or activity of producing and distributing printed or digital content."
+        },
+        {
+            "word": "pursue",
+            "translation": "переслідувати / прагнути",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To follow or strive to achieve something."
+        },
+        {
+            "word": "pursuit",
+            "translation": "погоня / прагнення",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The act of chasing or seeking something."
+        },
+        {
+            "word": "questionnaire",
+            "translation": "анкета / опитувальник",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A set of questions used for gathering information."
+        },
+        {
+            "word": "racial",
+            "translation": "расовий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Relating to race or ethnicity."
+        },
+        {
+            "word": "range",
+            "translation": "діапазон / ряд",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The extent or scope of something."
+        },
+        {
+            "word": "rank",
+            "translation": "звання / ранг",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A position in a hierarchy or scale."
+        },
+        {
+            "word": "rapid",
+            "translation": "швидкий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Happening quickly or in a short time."
+        },
+        {
+            "word": "reasonable",
+            "translation": "розумний / не безпричинний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Fair and sensible."
+        },
+        {
+            "word": "receiver",
+            "translation": "приймач / отримувач",
+            "category": "Technology/devices",
+            "type": "noun",
+            "definition": "A device or person that receives something."
+        },
+        {
+            "word": "recession",
+            "translation": "рецесія",
+            "category": "Economics/finance",
+            "type": "noun",
+            "definition": "A period of economic decline."
+        },
+        {
+            "word": "reckon",
+            "translation": "вважати / припускати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To think or believe something."
+        },
+        {
+            "word": "recovery",
+            "translation": "одужання / відновлення",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The process of getting better or returning to normal."
+        },
+        {
+            "word": "refugee",
+            "translation": "біженець",
+            "category": "People",
+            "type": "noun",
+            "definition": "A person who flees their country due to danger or persecution."
+        },
+        {
+            "word": "regard",
+            "translation": "ставлення / увага",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Consideration or attention given to someone or something."
+        },
+        {
+            "word": "regulate",
+            "translation": "регулювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To control or maintain the proper functioning of something."
+        },
+        {
+            "word": "reinforce",
+            "translation": "посилювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To strengthen or support something."
+        },
+        {
+            "word": "relevant",
+            "translation": "релевантний / актуальний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Closely connected or appropriate to the matter at hand."
+        },
+        {
+            "word": "relieve",
+            "translation": "полегшувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To reduce or remove pain, stress, or difficulty."
+        },
+        {
+            "word": "rely",
+            "translation": "покладатися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To depend on someone or something."
+        },
+        {
+            "word": "remark",
+            "translation": "зауваження / відзначати",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A comment or observation."
+        },
+        {
+            "word": "representative",
+            "translation": "представник",
+            "category": "People",
+            "type": "noun",
+            "definition": "A person who represents others or an organization."
+        },
+        {
+            "word": "requirement",
+            "translation": "вимога",
+            "category": "Work",
+            "type": "noun",
+            "definition": "Something needed or demanded."
+        },
+        {
+            "word": "resident",
+            "translation": "мешканець",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A person who lives in a particular place."
+        },
+        {
+            "word": "resign",
+            "translation": "подавати у відставку",
+            "category": "Work",
+            "type": "verb",
+            "definition": "To officially leave a job or position."
+        },
+        {
+            "word": "resolution",
+            "translation": "рішення / постановка мети",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A firm decision; also the solving of a problem."
+        },
+        {
+            "word": "resolve",
+            "translation": "вирішувати / рішучість",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To find a solution or make a firm decision."
+        },
+        {
+            "word": "restrict",
+            "translation": "обмежувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To limit or control something."
+        },
+        {
+            "word": "résumé",
+            "translation": "резюме",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A document summarizing a person’s education, work experience, and skills."
+        },
+        {
+            "word": "retail",
+            "translation": "роздрібна торгівля",
+            "category": "Work",
+            "type": "noun",
+            "definition": "The sale of goods to the public."
+        },
+        {
+            "word": "retain",
+            "translation": "зберігати / утримувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To keep possession of something."
+        },
+        {
+            "word": "reveal",
+            "translation": "розкривати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To make something known or visible."
+        },
+        {
+            "word": "revenue",
+            "translation": "дохід",
+            "category": "Work",
+            "type": "noun",
+            "definition": "Income generated by a business or organization."
+        },
+        {
+            "word": "revision",
+            "translation": "перегляд / повторення",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The act of reviewing or improving something."
+        },
+        {
+            "word": "reward",
+            "translation": "нагорода",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A benefit or prize given for good work or achievement."
+        },
+        {
+            "word": "root",
+            "translation": "корінь",
+            "category": "Nature/plants",
+            "type": "noun",
+            "definition": "The part of a plant that grows underground."
+        },
+        {
+            "word": "roughly",
+            "translation": "приблизно",
+            "category": "Adverbs",
+            "type": "adverb",
+            "definition": "Approximately; not exactly."
+        },
+        {
+            "word": "rub",
+            "translation": "терти",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To apply pressure and friction to a surface."
+        },
+        {
+            "word": "ruin",
+            "translation": "руйнувати / руїна",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To destroy or spoil something completely."
+        },
+        {
+            "word": "rural",
+            "translation": "сільський",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Relating to the countryside."
+        },
+        {
+            "word": "rush",
+            "translation": "швидко рухатись / поспішати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To move or act with great speed."
+        },
+        {
+            "word": "sample",
+            "translation": "зразок",
+            "category": "Science",
+            "type": "noun",
+            "definition": "A part or example of something to show its quality."
+        },
+        {
+            "word": "satellite",
+            "translation": "супутник",
+            "category": "Space",
+            "type": "noun",
+            "definition": "An object that orbits a planet or star."
+        },
+        {
+            "word": "saving",
+            "translation": "заощадження",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Money or resources kept for future use."
+        },
+        {
+            "word": "scale",
+            "translation": "шкала / масштаб",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A system of measurement or size."
+        },
+        {
+            "word": "schedule",
+            "translation": "розклад",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A plan of events or tasks with times."
+        },
+        {
+            "word": "scholar",
+            "translation": "вчений / студент",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A person who studies or has expertise in a subject."
+        },
+        {
+            "word": "screening",
+            "translation": "показ / перевірка",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "The process of showing a film or checking for problems."
+        },
+        {
+            "word": "secure",
+            "translation": "безпечний / забезпечувати",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Safe, protected; or to make safe."
+        },
+        {
+            "word": "seek",
+            "translation": "шукати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To try to find or obtain something."
+        },
+        {
+            "word": "select",
+            "translation": "вибирати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To choose from a number of options."
+        },
+        {
+            "word": "selection",
+            "translation": "вибір / відбір",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The process of choosing or the items chosen."
+        },
+        {
+            "word": "sensitive",
+            "translation": "чутливий",
+            "category": "Characteristics",
+            "type": "adjective",
+            "definition": "Easily affected or responsive to stimuli."
+        },
+        {
+            "word": "sequence",
+            "translation": "послідовність",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "An ordered series of events or things."
+        },
+        {
+            "word": "settle",
+            "translation": "оселитися / вирішити",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To resolve a problem or establish a home."
+        },
+        {
+            "word": "settler",
+            "translation": "поселенець",
+            "category": "People",
+            "type": "noun",
+            "definition": "A person who moves to live in a new place."
+        },
+        {
+            "word": "severe",
+            "translation": "серйозний / суворий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Very great; harsh or strict."
+        },
+        {
+            "word": "shallow",
+            "translation": "мілкий",
+            "category": "Geography",
+            "type": "adjective",
+            "definition": "Not deep; lacking depth in thought or feeling."
+        },
+        {
+            "word": "shelter",
+            "translation": "притулок / укриття",
+            "category": "Places",
+            "type": "noun",
+            "definition": "A place providing protection from danger or weather."
+        },
+        {
+            "word": "shore",
+            "translation": "берег",
+            "category": "Geography",
+            "type": "noun",
+            "definition": "The land along the edge of a sea, lake, or river."
+        },
+        {
+            "word": "shortage",
+            "translation": "нестача",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A lack of something needed."
+        },
+        {
+            "word": "sidewalk",
+            "translation": "тротуар",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A paved path for pedestrians beside a road."
+        },
+        {
+            "word": "signature",
+            "translation": "підпис",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A person's name written in a distinctive way as a form of identification."
+        },
+        {
+            "word": "silk",
+            "translation": "шовк",
+            "category": "Clothes",
+            "type": "noun",
+            "definition": "A soft, fine, and smooth fabric."
+        },
+        {
+            "word": "slope",
+            "translation": "схил / нахил",
+            "category": "Geography",
+            "type": "noun",
+            "definition": "A surface that is inclined from the horizontal."
+        },
+        {
+            "word": "so-called",
+            "translation": "так званий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Used to indicate that something is commonly named but possibly inaccurately."
+        },
+        {
+            "word": "sophisticated",
+            "translation": "витончений / складний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Advanced, complex, or highly developed."
+        },
+        {
+            "word": "soul",
+            "translation": "душа",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The spiritual or immaterial part of a person."
+        },
+        {
+            "word": "spare",
+            "translation": "запасний / звільняти",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Extra, not currently in use."
+        },
+        {
+            "word": "specialist",
+            "translation": "спеціаліст",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A person highly skilled in a particular area."
+        },
+        {
+            "word": "specialise",
+            "translation": "спеціалізуватися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To focus on a specific area of study or work."
+        },
+        {
+            "word": "species",
+            "translation": "вид",
+            "category": "Nature/plants",
+            "type": "noun",
+            "definition": "A group of living organisms with common characteristics."
+        },
+        {
+            "word": "specify",
+            "translation": "вказувати / уточнювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To state or describe clearly and in detail."
+        },
+        {
+            "word": "spectacular",
+            "translation": "вражаючий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Impressive or visually striking."
+        },
+        {
+            "word": "speculate",
+            "translation": "спекулювати / гадати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To form opinions without firm evidence."
+        },
+        {
+            "word": "spiritual",
+            "translation": "духовний",
+            "category": "Characteristics",
+            "type": "adjective",
+            "definition": "Relating to the human spirit or soul."
+        },
+        {
+            "word": "spokesperson",
+            "translation": "представник",
+            "category": "People",
+            "type": "noun",
+            "definition": "A person who represents or speaks for others."
+        },
+        {
+            "word": "spot",
+            "translation": "місце / пляма",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A location or small mark."
+        },
+        {
+            "word": "spread",
+            "translation": "розповсюджувати / намазати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To extend over an area or apply over a surface."
+        },
+        {
+            "word": "stable",
+            "translation": "стабільний / стайня",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Firm, steady, and not likely to change; or a building for horses."
+        },
+        {
+            "word": "stage",
+            "translation": "сцена / етап",
+            "category": "Places",
+            "type": "noun",
+            "definition": "A platform for performances; or a phase in a process."
+        },
+        {
+            "word": "stall",
+            "translation": "лавка / кабіна",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A small stand or compartment for selling goods or animals."
+        },
+        {
+            "word": "starve",
+            "translation": "голодувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To suffer or die from lack of food."
+        },
+        {
+            "word": "steady",
+            "translation": "стійкий / стабільний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Firmly fixed; not shaking or changing."
+        },
+        {
+            "word": "steam",
+            "translation": "пар",
+            "category": "Nature/plants",
+            "type": "noun",
+            "definition": "Vapor into which water is converted when heated."
+        },
+        {
+            "word": "steel",
+            "translation": "сталь",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A strong, hard metal made of iron and carbon."
+        },
+        {
+            "word": "steep",
+            "translation": "крутий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Rising or falling sharply."
+        },
+        {
+            "word": "stream",
+            "translation": "потік / струмок",
+            "category": "Nature/plants",
+            "type": "noun",
+            "definition": "A continuous flow of liquid, air, or data."
+        },
+        {
+            "word": "strengthen",
+            "translation": "зміцнювати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To make stronger or more powerful."
+        },
+        {
+            "word": "stroke",
+            "translation": "удар / інсульт",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A single movement of the hand or an attack on the body; or a medical condition."
+        },
+        {
+            "word": "stuff",
+            "translation": "речі / матеріал",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "Things in general or materials of a particular type."
+        },
+        {
+            "word": "subject",
+            "translation": "предмет / тема",
+            "category": "School",
+            "type": "noun",
+            "definition": "A topic being discussed or studied; or a person under authority."
+        },
+        {
+            "word": "submit",
+            "translation": "подавати / підкорятися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To present for consideration or comply with authority."
+        },
+        {
+            "word": "subsequent",
+            "translation": "наступний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Coming after something else in time or order."
+        },
+        {
+            "word": "subsequently",
+            "translation": "потім / в подальшому",
+            "category": "Adverbs",
+            "type": "adverb",
+            "definition": "Later; afterward."
+        },
+        {
+            "word": "sufficient",
+            "translation": "достатній",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Enough to meet needs."
+        },
+        {
+            "word": "survey",
+            "translation": "опитування / дослідження",
+            "category": "Work",
+            "type": "noun",
+            "definition": "A study or investigation to gather information."
+        },
+        {
+            "word": "suspect",
+            "translation": "підозрювати / підозрюваний",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To believe someone may be guilty; also a person thought to be guilty."
+        },
+        {
+            "word": "swear",
+            "translation": "клястися / матюкатися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To make a solemn promise or use offensive language."
+        },
+        {
+            "word": "switch",
+            "translation": "вимикач / перемикач",
+            "category": "Furniture/household items",
+            "type": "noun",
+            "definition": "A device for turning on or off electrical flow."
+        },
+        {
+            "word": "sympathetic",
+            "translation": "співчутливий",
+            "category": "Characteristics",
+            "type": "adjective",
+            "definition": "Feeling or showing understanding and care for others."
+        },
+        {
+            "word": "sympathy",
+            "translation": "співчуття",
+            "category": "Emotions/qualities",
+            "type": "noun",
+            "definition": "Feelings of pity or sorrow for someone else's misfortune."
+        },
+        {
+            "word": "tale",
+            "translation": "оповідання / казка",
+            "category": "Literature",
+            "type": "noun",
+            "definition": "A story, especially one that is imaginative."
+        },
+        {
+            "word": "temple",
+            "translation": "храм / скроня",
+            "category": "Places",
+            "type": "noun",
+            "definition": "A building for religious practice; or the side of the head."
+        },
+        {
+            "word": "temporary",
+            "translation": "тимчасовий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Not permanent; lasting for a short time."
+        },
+        {
+            "word": "tendency",
+            "translation": "тенденція",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "An inclination to behave or act in a particular way."
+        },
+        {
+            "word": "term",
+            "translation": "термін",
+            "category": "School",
+            "type": "noun",
+            "definition": "A word or expression; or a fixed period of time."
+        },
+        {
+            "word": "textbook",
+            "translation": "підручник",
+            "category": "School",
+            "type": "noun",
+            "definition": "A book used for study in a particular subject."
+        },
+        {
+            "word": "therapist",
+            "translation": "терапевт / психолог",
+            "category": "Professions",
+            "type": "noun",
+            "definition": "A person trained to provide therapy."
+        },
+        {
+            "word": "therapy",
+            "translation": "терапія",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Treatment intended to relieve or heal a disorder."
+        },
+        {
+            "word": "thesis",
+            "translation": "теза / дипломна робота",
+            "category": "School",
+            "type": "noun",
+            "definition": "A statement or long essay, often for a degree."
+        },
+        {
+            "word": "thorough",
+            "translation": "ретельний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Complete and careful."
+        },
+        {
+            "word": "threat",
+            "translation": "загроза",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A statement or situation indicating potential harm."
+        },
+        {
+            "word": "threaten",
+            "translation": "погрожувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To indicate intent to cause harm."
+        },
+        {
+            "word": "trace",
+            "translation": "слід / відслідковувати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "A small sign or evidence; or to follow something."
+        },
+        {
+            "word": "track",
+            "translation": "трек / стежка",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A path or course; or a recording of music."
+        },
+        {
+            "word": "trait",
+            "translation": "рисa / характерна особливість",
+            "category": "Characteristics",
+            "type": "noun",
+            "definition": "A distinguishing quality or feature of a person or thing."
+        },
+        {
+            "word": "transmit",
+            "translation": "передавати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To send information, energy, or disease from one place/person to another."
+        },
+        {
+            "word": "trap",
+            "translation": "пастка",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A device or situation designed to catch or hold something."
+        },
+        {
+            "word": "treasure",
+            "translation": "скарб",
+            "category": "Objects/things",
+            "type": "noun",
+            "definition": "A collection of valuable items."
+        },
+        {
+            "word": "trial",
+            "translation": "суд / випробування",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A legal proceeding; or a test of performance or quality."
+        },
+        {
+            "word": "unacceptable",
+            "translation": "неприйнятний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Not satisfactory or allowable."
+        },
+        {
+            "word": "uncertainty",
+            "translation": "невизначеність",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The state of being unsure or doubtful."
+        },
+        {
+            "word": "unconscious",
+            "translation": "непритомний / несвідомий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Not awake or aware of surroundings."
+        },
+        {
+            "word": "undergo",
+            "translation": "піддаватися / проходити",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To experience or be subjected to something."
+        },
+        {
+            "word": "unexpected",
+            "translation": "неочікуваний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Not anticipated or predicted."
+        },
+        {
+            "word": "unfold",
+            "translation": "розгортати / розкриватися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To open or develop gradually."
+        },
+        {
+            "word": "unfortunate",
+            "translation": "невдалий / нещасливий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Having bad luck or an unlucky outcome."
+        },
+        {
+            "word": "universal",
+            "translation": "універсальний / всесвітній",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Applicable everywhere; common to all."
+        },
+        {
+            "word": "universe",
+            "translation": "всесвіт",
+            "category": "Space",
+            "type": "noun",
+            "definition": "All of space and everything in it."
+        },
+        {
+            "word": "urban",
+            "translation": "міський",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Relating to a city or town."
+        },
+        {
+            "word": "urge",
+            "translation": "спонукати / бажання",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To strongly encourage or push; also a strong desire."
+        },
+        {
+            "word": "vary",
+            "translation": "різнитися",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To differ or change in some way."
+        },
+        {
+            "word": "vast",
+            "translation": "великий / безмежний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Extremely large in size or extent."
+        },
+        {
+            "word": "venue",
+            "translation": "місце проведення",
+            "category": "Places",
+            "type": "noun",
+            "definition": "A location where events are held."
+        },
+        {
+            "word": "via",
+            "translation": "через / шляхом",
+            "category": "Prepositions",
+            "type": "preposition",
+            "definition": "By way of; through."
+        },
+        {
+            "word": "violence",
+            "translation": "насильство",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Behavior involving physical force intended to harm."
+        },
+        {
+            "word": "visible",
+            "translation": "видимий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Able to be seen."
+        },
+        {
+            "word": "vision",
+            "translation": "зір / бачення",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The ability to see or a mental image of the future."
+        },
+        {
+            "word": "vital",
+            "translation": "життєво важливий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Absolutely necessary or essential."
+        },
+        {
+            "word": "voluntary",
+            "translation": "добровільний",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Done by choice; not forced."
+        },
+        {
+            "word": "wander",
+            "translation": "блукати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To move around without a fixed course."
+        },
+        {
+            "word": "weakness",
+            "translation": "слабкість",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "A lack of strength or ability."
+        },
+        {
+            "word": "wealth",
+            "translation": "багатство",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "An abundance of valuable resources or money."
+        },
+        {
+            "word": "welfare",
+            "translation": "благополуччя",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "Well-being."
+        },
+        {
+            "word": "widespread",
+            "translation": "широко розповсюджений",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Existing or happening over a large area."
+        },
+        {
+            "word": "willing",
+            "translation": "готовий / охочий",
+            "category": "Adjectives",
+            "type": "adjective",
+            "definition": "Prepared to do something; inclined."
+        },
+        {
+            "word": "withdraw",
+            "translation": "знімати / відступати",
+            "category": "Verbs",
+            "type": "verb",
+            "definition": "To take back or remove; to retreat."
+        },
+        {
+            "word": "workforce",
+            "translation": "робоча сила",
+            "category": "Work",
+            "type": "noun",
+            "definition": "All the people employed or available to work."
+        },
+        {
+            "word": "workshop",
+            "translation": "майстерня / семінар",
+            "category": "Places",
+            "type": "noun",
+            "definition": "A place for making things or a training session."
+        },
+        {
+            "word": "worth",
+            "translation": "вартість / цінність",
+            "category": "Abstract nouns",
+            "type": "noun",
+            "definition": "The value of something."
+        },
+        {
+            "word": "wrist",
+            "translation": "зап’ястя",
+            "category": "Body parts",
+            "type": "noun",
+            "definition": "The joint connecting the hand and the forearm."
+        },
+        {
+            "word": "zone",
+            "translation": "зона",
+            "category": "Places",
+            "type": "noun",
+            "definition": "An area or region distinguished by a characteristic."
+        }
+    ]
+}

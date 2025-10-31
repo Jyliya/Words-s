@@ -1,0 +1,192 @@
+a {
+    font-size: x-large;
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+    color:crimson;
+    display: inline;
+}
+
+#results {
+    display: none;
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid black;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    #definitions {
+        display: none;
+    }
+
+    li,
+    label {
+        padding: 3px;
+        font-size: medium;
+    }
+
+    label {
+        font-size: large;
+    }
+
+    ul {
+        display: inline-table;
+        list-style: none;
+    }
+
+    a {
+        font-size: large;
+    }
+
+    #results {
+        display: inline;
+    }
+}
+
+p {
+    display: inline;
+    font-size: large;
+}
+
+#guessed {
+    text-align: right;
+}
+
+div {
+    display: block;
+}
+
+#form-block {
+    max-width: 600px;
+    max-height: 600px;
+    align-self: center;
+    margin: auto;
+    margin-top: 12%;
+    border: 2px solid black;
+    padding: 2%;
+    display: none;
+}
+
+#test-choice {
+    text-align: center;
+    margin-top: 12%;
+    padding: 10px;
+}
+
+input {
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+button {
+    font-size: large;
+    margin: 5px;
+}
+
+select {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin: 5px;
+}
+
+#congratulation-block {
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    margin-top: 12%;
+    border: 2px solid black;
+    max-width: 600px;
+    max-height: 600px;
+    display: none;
+}
+
+#word-block {
+    margin: auto;
+    padding: 10px;
+    border: 2px solid black;
+    max-width: 410px;
+}
+
+table,
+tr,
+td {
+    padding: 5px;
+    font-size: large;
+    text-align: left;
+}
+
+td {
+    padding-left: 15px;
+    padding-right: 15px;
+    vertical-align: top;
+}
+
+.name {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: larger;
+}
+
+h1 {
+    text-align: center;
+}
+
+#result-box {
+    margin: auto;
+    padding: 10px;
+    max-width: 300px;
+}
+
+#result-table td {
+    border: 2px solid black;
+}
+
+#result-table {
+    border-collapse: collapse;
+}
+
+#answ-input {
+    font-size: large;
+}
+
+button {
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 8px;
+    border: 3px solid lightcoral;
+    background-color: white;
+    font-size: larger;
+}
+
+button:hover{
+    background-color: lightcoral;
+}
+
+#mode-block {
+    display: block;
+    text-align: right;
+}
+
+#mode {
+    border: 1px solid grey;
+    font-size: medium;
+}
+
+#mode:hover {
+    background-color: grey;
+}
+
+#smt {
+    display: flex;
+    justify-content:space-between;
+}
+
+.night-mode {
+    background-color: rgb(40, 39, 39);
+    color: white;
+}

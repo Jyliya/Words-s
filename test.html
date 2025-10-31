@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test</title>
+    <link rel="icon" type="image/x-icon" href="dictionary.png">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <a href="index.html">Words</a>
+        <a id="results" href="results.html">Results</a>
+    </header>
+    <div id="mode-block"><button id="mode" value="Night mode">Night mode</button></div>
+    <div id="test-choice">
+        <button class="test-type" id="defin-test" value="definitions">Вгадай слово за поняттям</button> </br>
+        <button class="test-type" id="transl-test" value="translations">Вгадай слово за перекладом</button> </br>
+        <button class="test-type" id="words-test" value="words">Вгадай переклад до слова</button> </br> </br>
+        <button class="test-type" id="word-input-test" value="input">Напиши слово правильно</button> </br>
+    </div>
+    <div id="form-block">
+        <p id="question"></p>
+
+        <form>
+            <input type="radio" name="answer" id="a1" class="inputAnswer answer">
+            <p id="answ1" class="textAnswer answer"></p> <br class="answer" />
+            <input type="radio" name="answer" id="a2" class="inputAnswer answer">
+            <p id="answ2" class="textAnswer answer"></p> <br class="answer" />
+            <input type="radio" name="answer" id="a3" class="inputAnswer answer">
+            <p id="answ3" class="textAnswer answer"></p> <br class="answer" />
+            <input type="radio" name="answer" id="a4" class="inputAnswer answer">
+            <p id="answ4" class="textAnswer answer"></p> <br class="answer" />
+            <input id="answ-input" type="text" spellcheck="false" autocomplete="off" /> <br />
+            <input type="button" value="Next question" id="next">
+        </form>
+
+        <div id="guessed">
+            <p>All: <span id="all-count">0</span>/30</p> </br>
+        </div>
+    </div>
+    <div id="congratulation-block">
+        <h1>Congratulations!</h1>
+        <p>Ти відповів правильно на <span id="correct-count"></span> питань з 30!</p> </br> </br>
+        <button>OK</button>
+    </div>
+    <script src="test.js"></script>
+    <script src="mode-change.js"></script>
+</body>
+
+</html>
