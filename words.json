@@ -3207,7 +3207,7 @@
             "definition": "To limit or control something."
         },
         {
-            "word": "résumé",
+            "word": "resume",
             "translation": "резюме",
             "category": "Work",
             "type": "noun",
@@ -3832,7 +3832,7 @@
         {
             "word": "transmit",
             "translation": "передавати",
-            "category": "Verbs",
+            "category": "Technology/devices",
             "type": "verb",
             "definition": "To send information, energy, or disease from one place/person to another."
         },
