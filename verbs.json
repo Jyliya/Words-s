@@ -1,0 +1,344 @@
+{
+    "verbs": [
+        {
+            "verb": "awake",
+            "second": "awoke",
+            "third": "awoken"
+        },
+        {
+            "verb": "become",
+            "second": "became",
+            "third": "become"
+        },
+        {
+            "verb": "begin",
+            "second": "began",
+            "third": "begun"
+        },
+        {
+            "verb": "blow",
+            "second": "blew",
+            "third": "blown"
+        },
+        {
+            "verb": "break",
+            "second": "broke",
+            "third": "broken"
+        },
+        {
+            "verb": "bring",
+            "second": "brought",
+            "third": "brought"
+        },
+        {
+            "verb": "build",
+            "second": "built",
+            "third": "built"
+        },
+        {
+            "verb": "buy",
+            "second": "bought",
+            "third": "bought"
+        },
+        {
+            "verb": "catch",
+            "second": "caught",
+            "third": "caught"
+        },
+        {
+            "verb": "choose",
+            "second": "chose",
+            "third": "chosen"
+        },
+        {
+            "verb": "come",
+            "second": "came",
+            "third": "come"
+        },
+        {
+            "verb": "cost",
+            "second": "cost",
+            "third": "cost"
+        },
+        {
+            "verb": "cut",
+            "second": "cut",
+            "third": "cut"
+        },
+        {
+            "verb": "dig",
+            "second": "dug",
+            "third": "dug"
+        },
+        {
+            "verb": "do",
+            "second": "did",
+            "third": "done"
+        },
+        {
+            "verb": "draw",
+            "second": "drew",
+            "third": "drawn"
+        },
+        {
+            "verb": "drink",
+            "second": "drank",
+            "third": "drunk"
+        },
+        {
+            "verb": "drive",
+            "second": "drove",
+            "third": "driven"
+        },
+        {
+            "verb": "eat",
+            "second": "ate",
+            "third": "eaten"
+        },
+        {
+            "verb": "fall",
+            "second": "fell",
+            "third": "fallen"
+        },
+        {
+            "verb": "feed",
+            "second": "fed",
+            "third": "fed"
+        },
+        {
+            "verb": "feel",
+            "second": "felt",
+            "third": "felt"
+        },
+        {
+            "verb": "fight",
+            "second": "fought",
+            "third": "fought"
+        },
+        {
+            "verb": "find",
+            "second": "found",
+            "third": "found"
+        },
+        {
+            "verb": "fly",
+            "second": "flew",
+            "third": "flown"
+        },
+        {
+            "verb": "forget",
+            "second": "forgot",
+            "third": "forgotten"
+        },
+        {
+            "verb": "get",
+            "second": "got",
+            "third": "gotten"
+        },
+        {
+            "verb": "give",
+            "second": "gave",
+            "third": "given"
+        },
+        {
+            "verb": "go",
+            "second": "went",
+            "third": "gone"
+        },
+        {
+            "verb": "have",
+            "second": "had",
+            "third": "had"
+        },
+        {
+            "verb": "hear",
+            "second": "heard",
+            "third": "heard"
+        },
+        {
+            "verb": "hide",
+            "second": "hid",
+            "third": "hidden"
+        },
+        {
+            "verb": "hold",
+            "second": "held",
+            "third": "held"
+        },
+        {
+            "verb": "keep",
+            "second": "kept",
+            "third": "kept"
+        },
+        {
+            "verb": "know",
+            "second": "knew",
+            "third": "known"
+        },
+        {
+            "verb": "learn",
+            "second": "learnt",
+            "third": "learnt"
+        },
+        {
+            "verb": "lend",
+            "second": "lent",
+            "third": "lent"
+        },
+        {
+            "verb": "let",
+            "second": "let",
+            "third": "let"
+        },
+        {
+            "verb": "lose",
+            "second": "lost",
+            "third": "lost"
+        },
+        {
+            "verb": "make",
+            "second": "made",
+            "third": "made"
+        },
+        {
+            "verb": "mean",
+            "second": "meant",
+            "third": "meant"
+        },
+        {
+            "verb": "meet",
+            "second": "met",
+            "third": "met"
+        },
+        {
+            "verb": "pay",
+            "second": "paid",
+            "third": "paid"
+        },
+        {
+            "verb": "put",
+            "second": "put",
+            "third": "put"
+        },
+        {
+            "verb": "read",
+            "second": "read",
+            "third": "read"
+        },
+        {
+            "verb": "ride",
+            "second": "rode",
+            "third": "ridden"
+        },
+        {
+            "verb": "ring",
+            "second": "rang",
+            "third": "rung"
+        },
+        {
+            "verb": "run",
+            "second": "ran",
+            "third": "run"
+        },
+        {
+            "verb": "see",
+            "second": "saw",
+            "third": "seen"
+        },
+        {
+            "verb": "say",
+            "second": "said",
+            "third": "said"
+        },
+        {
+            "verb": "sell",
+            "second": "sold",
+            "third": "sold"
+        },
+        {
+            "verb": "send",
+            "second": "sent",
+            "third": "sent"
+        },
+        {
+            "verb": "sing",
+            "second": "sang",
+            "third": "sung"
+        },
+        {
+            "verb": "sit",
+            "second": "sat",
+            "third": "sat"
+        },
+        {
+            "verb": "sleep",
+            "second": "slept",
+            "third": "slept"
+        },
+        {
+            "verb": "speak",
+            "second": "spoke",
+            "third": "spoken"
+        },
+        {
+            "verb": "spend",
+            "second": "spent",
+            "third": "spent"
+        },
+        {
+            "verb": "stand",
+            "second": "stood",
+            "third": "stood"
+        },
+        {
+            "verb": "swim",
+            "second": "swam",
+            "third": "swum"
+        },
+        {
+            "verb": "take",
+            "second": "took",
+            "third": "taken"
+        },
+        {
+            "verb": "teach",
+            "second": "taught",
+            "third": "taught"
+        },
+        {
+            "verb": "tell",
+            "second": "told",
+            "third": "told"
+        },
+        {
+            "verb": "think",
+            "second": "thought",
+            "third": "thought"
+        },
+        {
+            "verb": "throw",
+            "second": "threw",
+            "third": "thrown"
+        },
+        {
+            "verb": "wake",
+            "second": "woke",
+            "third": "woken"
+        },
+        {
+            "verb": "wear",
+            "second": "wore",
+            "third": "worn"
+        },
+        {
+            "verb": "win",
+            "second": "won",
+            "third": "won"
+        },
+        {
+            "verb": "write",
+            "second": "wrote",
+            "third": "written"
+        }
+    ]
+}

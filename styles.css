@@ -1,9 +1,13 @@
-a {
+body {
+    margin-top: 0;
+}
+
+header a {
     font-size: x-large;
     padding: 5px;
     margin: 10px;
     text-decoration: none;
-    color:crimson;
+    color: crimson;
     display: inline;
 }
 
@@ -37,6 +41,7 @@ header {
     ul {
         display: inline-table;
         list-style: none;
+        /* margin-left: 5%; */
     }
 
     a {
@@ -45,6 +50,14 @@ header {
 
     #results {
         display: inline;
+    }
+
+    #cat-game {
+        display: none;
+    }
+
+    .word-block {
+        max-width: 90%;
     }
 }
 
@@ -78,15 +91,26 @@ div {
     padding: 10px;
 }
 
+#sentence-test-link {
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 8px;
+    border: 3px solid lightcoral;
+    /* background-color: white; */
+    font-size: larger;
+    color:unset;
+    text-decoration: none;
+    padding: 2px;
+}
+
+#sentence-test-link:hover {
+    background-color: lightcoral;
+    cursor:default;
+}
+
 input {
     margin: 5px;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
-}
-
-button {
-    font-size: large;
-    margin: 5px;
 }
 
 select {
@@ -156,6 +180,7 @@ h1 {
 }
 
 button {
+    margin: 5px;
     font-family: 'Times New Roman', Times, serif;
     border-radius: 8px;
     border: 3px solid lightcoral;
@@ -163,7 +188,7 @@ button {
     font-size: larger;
 }
 
-button:hover{
+button:hover {
     background-color: lightcoral;
 }
 
@@ -183,10 +208,144 @@ button:hover{
 
 #smt {
     display: flex;
-    justify-content:space-between;
+    justify-content: space-between;
 }
 
 .night-mode {
     background-color: rgb(40, 39, 39);
     color: white;
+}
+
+#verb-block {
+    margin: auto;
+    padding: 10px;
+    max-width: max-content;
+}
+
+#verbs {
+    border-collapse: collapse;
+}
+
+#verbs tr:hover {
+    background-color: rgb(203, 202, 202);
+}
+
+#verbs td {
+    border: 2px solid black;
+}
+
+#verbs td:hover {
+    background-color: rgb(227, 108, 108);
+}
+
+.headline {
+    font-weight: bold;
+}
+
+.word:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.wordlink {
+    font-size: large;
+    color: black;
+}
+
+#start-btn-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+#start-btn {
+    padding: 10px;
+    font-size: x-large;
+}
+
+#game-block {
+    display: none;
+    text-align: center;
+}
+
+#score {
+    text-decoration: underline;
+    font-size: x-large;
+}
+
+#word-input {
+    font-size: large;
+    text-align: center;
+}
+
+.word-block {
+    display: inline-table;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    width: 400px;
+}
+
+.guessed {
+    display: inline-block;
+    font-size: larger;
+    background-color: lightgreen;
+    padding: 4px;
+    border-radius: 7px;
+    margin: 3px;
+}
+
+.word-block-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+}
+
+.word-header {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.block-score {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+#questions {
+    font-size: larger;
+    text-align: right;
+    margin: 5px;
+}
+
+#answer-btn,
+#sentence {
+    margin: 5px;
+}
+
+#answer-input {
+    font-size: large;
+}
+
+#question-block {
+    max-width: 600px;
+    max-height: 600px;
+    align-self: center;
+    margin: auto;
+    margin-top: 12%;
+    border: 2px solid black;
+    padding: 2%;
+    display: none;
+}
+
+#answer-block {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    padding: 0px;
 }

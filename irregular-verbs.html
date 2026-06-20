@@ -4,30 +4,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Irregular Verbs</title>
     <link rel="icon" type="image/x-icon" href="dictionary.png">
     <link rel="stylesheet" href="styles.css">
-    <title>Results</title>
 </head>
 
 <body>
     <header>
         <a href="index.html">Words</a>
-        <a href="irregular-verbs.html">Verbs</a>
         <a href="test.html">Test</a>
-        <a href="name-all-words.html">Guessing game</a>
+        <a id="cat-game" href="cat-game.html">Cat Game</a>
+        <a id="results" href="results.html">Results</a>
     </header>
     <div id="mode-block"><button id="mode" value="Night mode">Night mode</button></div>
-    <h1>Results</h1>
-    <div id="result-box">
-        <table id="result-table">
+
+    <div id="verb-block">
+        <table id="verbs">
             <tr>
-                <td class="name">Date</td>
-                <td class="name">Type</td>
-                <td class="name">Result</td>
+                <td class="headline">Verb</td>
+                <td class="headline">Second form</td>
+                <td class="headline">Third form</td>
             </tr>
         </table>
     </div>
-    <script src="results_script.js"></script>
+
+    <script src="irr-verbs.js"></script>
     <script src="mode-change.js"></script>
 </body>
 

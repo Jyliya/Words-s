@@ -1,0 +1,1112 @@
+{
+    "nouns": [
+        "my friend",
+        "their uncle",
+        "your sister",
+        "our mother",
+        "his brother",
+        "her cousin",
+        "my neighbor",
+        "our classmate",
+        "his roommate",
+        "her colleague",
+        "my partner",
+        "his manager",
+        "her student",
+        "the cat",
+        "the kid",
+        "the parent",
+        "the teacher",
+        "the musician",
+        "the artist",
+        "the athlete",
+        "the doctor",
+        "the lawyer",
+        "the chef",
+        "the driver",
+        "the dancer"
+    ],
+    "verbs": [
+        {
+            "verb": "come",
+            "objects": [
+                "home",
+                "here",
+                "to the party",
+                "to the meeting",
+                "to the park",
+                "to the restaurant",
+                "to the cinema"
+            ]
+        },
+        {
+            "verb": "meet",
+            "objects": [
+                "a friend",
+                "their teacher",
+                "our neighbor",
+                "his boss"
+            ]
+        },
+        {
+            "verb": "go",
+            "objects": [
+                "home",
+                "there",
+                "to the party",
+                "to the meeting",
+                "to the park",
+                "to the restaurant",
+                "to the cinema",
+                "to school",
+                "to work"
+            ]
+        },
+        {
+            "verb": "eat",
+            "objects": [
+                "breakfast",
+                "lunch",
+                "dinner",
+                "a sandwich",
+                "a salad",
+                "a pizza",
+                "an apple"
+            ]
+        },
+        {
+            "verb": "drink",
+            "objects": [
+                "water",
+                "tea",
+                "coffee",
+                "juice",
+                "milk"
+            ]
+        },
+        {
+            "verb": "watch",
+            "objects": [
+                "TV",
+                "a movie",
+                "a show",
+                "a series"
+            ]
+        },
+        {
+            "verb": "read",
+            "objects": [
+                "a book",
+                "a newspaper",
+                "a magazine",
+                "a message",
+                "an email",
+                "a story"
+            ]
+        },
+        {
+            "verb": "write",
+            "objects": [
+                "a message",
+                "a letter",
+                "an email",
+                "a note"
+            ]
+        },
+        {
+            "verb": "buy",
+            "objects": [
+                "food",
+                "a gift",
+                "a ticket",
+                "clothes",
+                "a car",
+                "a house"
+            ]
+        },
+        {
+            "verb": "work",
+            "objects": [
+                "in an office",
+                "from home",
+                "on a project"
+            ]
+        },
+        {
+            "verb": "count",
+            "objects": [
+                "people",
+                "money"
+            ]
+        },
+        {
+            "verb": "purchase",
+            "objects": [
+                "a car",
+                "a house",
+                "a gift"
+            ]
+        },
+        {
+            "verb": "cook",
+            "objects": [
+                "dinner",
+                "lunch",
+                "breakfast"
+            ]
+        },
+        {
+            "verb": "bake",
+            "objects": [
+                "a cake",
+                "cookies",
+                "bread"
+            ]
+        },
+        {
+            "verb": "create",
+            "objects": [
+                "artwork",
+                "a website",
+                "a presentation"
+            ]
+        },
+        {
+            "verb": "play",
+            "objects": [
+                "soccer",
+                "tennis",
+                "chess",
+                "football",
+                "basketball",
+                "a game",
+                "video games"
+            ]
+        },
+        {
+            "verb": "decide",
+            "objects": [
+                "what to do",
+                "how to solve the problem"
+            ]
+        },
+        {
+            "verb": "dream",
+            "objects": [
+                "about a vacation",
+                "about a new job",
+                "about the future"
+            ]
+        },
+        {
+            "verb": "laugh",
+            "objects": [
+                "at my joke",
+                "at the movie",
+                "at the comedian"
+            ]
+        },
+        {
+            "verb": "open",
+            "objects": [
+                "the door",
+                "a window",
+                "a book",
+                "a gift",
+                "a box",
+                "the shop"
+            ]
+        },
+        {
+            "verb": "close",
+            "objects": [
+                "the door",
+                "the window",
+                "the shop",
+                "the book"
+            ]
+        },
+        {
+            "verb": "clean",
+            "objects": [
+                "the room",
+                "the house",
+                "the table",
+                "the kitchen"
+            ]
+        },
+        {
+            "verb": "call",
+            "objects": [
+                "a friend",
+                "their boss",
+                "our teacher",
+                "his mother"
+            ]
+        },
+        {
+            "verb": "help",
+            "objects": [
+                "a friend",
+                "their parents",
+                "our teacher",
+                "his neighbor"
+            ]
+        },
+        {
+            "verb": "visit",
+            "objects": [
+                "a friend",
+                "their family",
+                "the city",
+                "the park"
+            ]
+        },
+        {
+            "verb": "travel",
+            "objects": [
+                "to the city",
+                "to the village",
+                "abroad",
+                "to the country"
+            ]
+        },
+        {
+            "verb": "drive",
+            "objects": [
+                "a car",
+                "to work",
+                "to the city",
+                "home"
+            ]
+        },
+        {
+            "verb": "walk",
+            "objects": [
+                "in the park",
+                "home",
+                "to school",
+                "outside"
+            ]
+        },
+        {
+            "verb": "talk",
+            "objects": [
+                "to a friend",
+                "to their boss",
+                "to our teacher",
+                "about work"
+            ]
+        },
+        {
+            "verb": "listen",
+            "objects": [
+                "to music",
+                "to the radio",
+                "to a teacher",
+                "carefully"
+            ]
+        },
+        {
+            "verb": "learn",
+            "objects": [
+                "English",
+                "new words",
+                "a language",
+                "something new"
+            ]
+        },
+        {
+            "verb": "teach",
+            "objects": [
+                "students",
+                "a class",
+                "English",
+                "children"
+            ]
+        },
+        {
+            "verb": "send",
+            "objects": [
+                "a message",
+                "an email",
+                "a letter",
+                "a file"
+            ]
+        },
+        {
+            "verb": "receive",
+            "objects": [
+                "a message",
+                "a gift",
+                "a letter",
+                "a call"
+            ]
+        },
+        {
+            "verb": "build",
+            "objects": [
+                "a house",
+                "a project",
+                "a model",
+                "something new"
+            ]
+        },
+        {
+            "verb": "fix",
+            "objects": [
+                "a car",
+                "a problem",
+                "a computer",
+                "the door"
+            ]
+        },
+        {
+            "verb": "change",
+            "objects": [
+                "plans",
+                "a schedule",
+                "clothes",
+                "a decision"
+            ]
+        },
+        {
+            "verb": "use",
+            "objects": [
+                "a phone",
+                "a computer",
+                "an app",
+                "a tool"
+            ]
+        },
+        {
+            "verb": "find",
+            "objects": [
+                "a solution",
+                "a job",
+                "a place",
+                "a key"
+            ]
+        },
+        {
+            "verb": "lose",
+            "objects": [
+                "a key",
+                "a phone",
+                "a game",
+                "money"
+            ]
+        },
+        {
+            "verb": "win",
+            "objects": [
+                "a game",
+                "a match",
+                "a prize",
+                "a competition"
+            ]
+        },
+        {
+            "verb": "choose",
+            "objects": [
+                "a plan",
+                "a dress",
+                "a place",
+                "an option"
+            ]
+        },
+        {
+            "verb": "need",
+            "objects": [
+                "help",
+                "money",
+                "time",
+                "a break"
+            ]
+        }
+    ],
+    "verbsForContinuous": [
+        {
+            "verb": "go",
+            "objects": [
+                "home",
+                "there",
+                "to the party",
+                "to the meeting",
+                "to the park",
+                "to the restaurant",
+                "to the cinema",
+                "to school",
+                "to work"
+            ]
+        },
+        {
+            "verb": "watch",
+            "objects": [
+                "TV",
+                "a movie",
+                "a show",
+                "a series"
+            ]
+        },
+        {
+            "verb": "read",
+            "objects": [
+                "a book",
+                "a newspaper",
+                "a magazine",
+                "a message",
+                "an email",
+                "a story"
+            ]
+        },
+        {
+            "verb": "write",
+            "objects": [
+                "a message",
+                "a letter",
+                "an email",
+                "a note"
+            ]
+        },
+        {
+            "verb": "work",
+            "objects": [
+                "in an office",
+                "from home",
+                "on a project"
+            ]
+        },
+        {
+            "verb": "cook",
+            "objects": [
+                "dinner",
+                "lunch",
+                "breakfast"
+            ]
+        },
+        {
+            "verb": "bake",
+            "objects": [
+                "a cake",
+                "cookies",
+                "bread"
+            ]
+        },
+        {
+            "verb": "play",
+            "objects": [
+                "soccer",
+                "tennis",
+                "chess",
+                "football",
+                "basketball",
+                "a game",
+                "video games"
+            ]
+        },
+        {
+            "verb": "clean",
+            "objects": [
+                "the room",
+                "the house",
+                "the table",
+                "the kitchen"
+            ]
+        },
+        {
+            "verb": "drive",
+            "objects": [
+                "a car",
+                "to work",
+                "to the city",
+                "home"
+            ]
+        },
+        {
+            "verb": "walk",
+            "objects": [
+                "in the park",
+                "home",
+                "to school",
+                "outside"
+            ]
+        },
+        {
+            "verb": "talk",
+            "objects": [
+                "to a friend",
+                "to their boss",
+                "to our teacher",
+                "about work"
+            ]
+        },
+        {
+            "verb": "build",
+            "objects": [
+                "a house",
+                "a project",
+                "a model",
+                "something new"
+            ]
+        },
+        {
+            "verb": "search",
+            "objects": [
+                "for a solution",
+                "for a job",
+                "for a place",
+                "for a key"
+            ]
+        }
+    ],
+    "tenses": [
+        {
+            "name": "Present Simple",
+            "verbEndingSingular": "s",
+            "beforeVerbNegativeSingular": "doesn't",
+            "beforeVerbNegativePlural": "don't",
+            "keywords": [
+                {
+                    "keyword": "always",
+                    "position": "before",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "often",
+                    "position": "before",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "sometimes",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "seldom",
+                    "position": "before",
+                    "sentenceType": [
+                        "Affirmative"
+                    ]
+                },
+                {
+                    "keyword": "usually",
+                    "position": "before",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "rarely",
+                    "position": "before",
+                    "sentenceType": [
+                        "Affirmative"
+                    ]
+                },
+                {
+                    "keyword": "every day",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "on Mondays",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "in the morning",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "at night",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Past Simple",
+            "beforeVerbNegative": "didn't",
+            "verbEnding": "ed",
+            "form": "second",
+            "keywords": [
+                {
+                    "keyword": "yesterday",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "last week",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "last month",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "last year",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "3 weeks ago",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "in 2025",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "last Tuesday",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Future Simple",
+            "beforeVerbAffirmative": "will",
+            "beforeVerbNegative": "won't",
+            "keywords": [
+                {
+                    "keyword": "tomorrow",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "next week",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "next month",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "next year",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "in the future",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "in 2028",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "next Wednesday",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Present Continuous",
+            "beforeVerbAffirmativeSingular": "is",
+            "beforeVerbAffirmativePlural": "are",
+            "beforeVerbNegativeSingular": "isn't",
+            "beforeVerbNegativePlural": "aren't",
+            "verbEnding": "ing",
+            "keywords": [
+                {
+                    "keyword": "now",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "right now",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "at the moment",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "Look,",
+                    "position": "beginning",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Past Continuous",
+            "beforeVerbAffirmativeSingular": "was",
+            "beforeVerbAffirmativePlural": "were",
+            "beforeVerbNegativeSingular": "wasn't",
+            "beforeVerbNegativePlural": "weren't",
+            "verbEnding": "ing",
+            "keywords": [
+                {
+                    "keyword": "yesterday at 7pm",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "last night at 1am",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "while I was sleeping",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "at noon yesterday",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "last Saturday at 3pm",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "when the box fell",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Future Continuous",
+            "beforeVerbAffirmative": "will be",
+            "beforeVerbNegative": "won't be",
+            "verbEnding": "ing",
+            "keywords": [
+                {
+                    "keyword": "tomorrow at 5am",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "next week at 8pm",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "at noon tomorrow",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "while I will be sleeping",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Present Perfect",
+            "beforeVerbAffirmativeSingular": "has",
+            "beforeVerbAffirmativePlural": "have",
+            "beforeVerbNegativeSingular": "hasn't",
+            "beforeVerbNegativePlural": "haven't",
+            "verbEnding": "ed",
+            "form": "third",
+            "keywords": [
+                {
+                    "keyword": "already",
+                    "position": "before",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "just",
+                    "position": "before",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "recently",
+                    "position": "before",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "lately",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "never",
+                    "position": "before",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "yet",
+                    "position": "after",
+                    "sentenceType": [
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {"keyword": "ever",
+                 "position": "before",
+                 "sentenceType": [
+                     "Question"
+                 ]
+                }
+            ]
+        },
+        {
+            "name": "Past Perfect",
+            "beforeVerbAffirmative": "had",
+            "beforeVerbNegative": "hadn't",
+            "verbEnding": "ed",
+            "form": "third",
+            "keywords": [
+                {
+                    "keyword": "by the time the day ended",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "before 5pm yesterday",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "before the guests arrived",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "The work was finished after",
+                    "position": "beginning",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                }, 
+                {
+                    "keyword": "I called you after",
+                    "position": "beginning",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Present Perfect Continuous",
+            "beforeVerbAffirmativeSingular": "has been",
+            "beforeVerbAffirmativePlural": "have been",
+            "beforeVerbNegativeSingular": "hasn't been",
+            "beforeVerbNegativePlural": "haven't been",
+            "verbEnding": "ing",
+            "keywords": [
+                {
+                    "keyword": "since last night",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "for a long time",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                },
+                {
+                    "keyword": "all day",
+                    "position": "after",
+                    "sentenceType": [
+                        "Affirmative",
+                        "Negative",
+                        "Question"
+                    ]
+                }
+            ]
+        }
+    ]
+
+}
