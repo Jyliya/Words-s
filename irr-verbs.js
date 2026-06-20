@@ -34,7 +34,6 @@ function addWordToATable(elem) {
 
 document.addEventListener("keydown", (e) => {
     if (e.code == "KeyA" && e.shiftKey) {
-        window.location.href = "/results.html"
-        // window.location.href = "/Words-and-Tests/results.html"
+        window.location.href = "/Words-s/results.html"
     }
 }) //Відкриття сторінки з результатами

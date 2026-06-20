@@ -9,14 +9,10 @@ let catNum;
 data
     .then(response => response.json())
     .then(json => {
-        // console.log(json)
         for (const item in json) {
-            // console.log(item)
             categories.push(item);
             wordArrays.push(json[item])
         }
-        // console.log(categories)
-        // console.log(wordArrays)
     })
     .catch(error => console.error(error));
 
@@ -26,8 +22,6 @@ function getRandom(min, max) {
 } // Get random number
 
 function checkRand(num, array1, array2) {
-    // if (array.length > max) return 0;
-
     while (array1.includes(array2[num])) {
         num = getRandom(0, array2.length - 1);
     }
@@ -40,7 +34,6 @@ document.querySelector("#start-btn").addEventListener("click", () => {
     }
     document.querySelector("#start-btn-block").style.display = "none";
     document.querySelector("#game-block").style.display = "block";
-    // console.log(wonCategories)
     catNum = checkRand(getRandom(0, categories.length - 1), wonCategories, categories)
     document.querySelector("#category").textContent = categories[catNum];
     for (let i = 0; i < 15; i++) {
@@ -58,10 +51,8 @@ document.querySelector("#hint-btn").addEventListener("click", () => {
     document.querySelectorAll(".guessed").forEach(elem => {
         allGueesedWords.push(elem.textContent)
     });
-    // console.log(allGueesedWords)
     let hintWordNum = checkRand(getRandom(0, wordArrays[catNum].length - 1), allGueesedWords, wordArrays[catNum]);
     let hintWord = wordArrays[catNum][hintWordNum];
-    // console.log(hintWordNum + "   " + hintWord)
     new swal({
         title: createHint(hintWord)
     })
@@ -76,59 +67,6 @@ document.querySelector("#word-input").addEventListener("keydown", (e) => {
 
 function createHint(word) {
     let hint = '';
-    // let beggining, number;
-    // switch (true) {
-    //     case word.length <= 5:
-    //         beggining = word[0] + " ";
-    //         number = 2
-    //         break
-    //     case word.length > 5 && word.length <= 9:
-    //         beggining = word[0] + " " + word[1] + " " + word[2];
-    //         number = 4
-    //         break
-    //     case word.length > 9:
-    //         beggining = word[0] + " " + word[1] + " " + word[2] + " " + word[3];
-    //         number = 5
-    //         break
-    // }
-    // hint += beggining;
-    // for (let i = 0; i < word.length - number; i++) {
-    //     hint += " — "
-    // }
-    // hint += word[word.length - 1]
-    // if (word.includes(" ")) hint = "Two words: " + hint
-
-    // console.log(word)
-    // for (let i = 0; i < word.length; i++) {
-    //     // console.log(word[i])
-    //     if (word.length <= 5) {
-    //         if (i < 1 || i > (word.length - 2)) {
-    //             hint += word[i] + " ";
-    //         }
-    //         else hint += " — ";
-    //     }
-    //     else if (word.length <= 9) {
-    //         if (i < 3 || i > word.length - 2) {
-    //             hint += word[i] + " ";
-    //         }
-    //         else if (word[i] == " ") {
-    //             hint += "\n" + word[i + 1] + " ";
-    //             i++;
-    //         }
-    //         else hint += " — ";
-    //     }
-    //     else if (word.length > 9) {
-    //         if (i < 4 || i > word.length - 3) {
-    //             hint += word[i] + " ";
-    //         }
-    //         else if (word[i] == " ") {
-    //             hint += "\n" + word[i + 1] + " ";
-    //             i++
-    //         }
-    //         else hint += " — ";
-    //     }
-    // }
-
     let len = word.length;
     let start, end;
 
@@ -155,33 +93,6 @@ function createHint(word) {
     }
 
     return hint
-
-
-
-    // if (word.length <= 5) {
-    //     hint += word[0] + " ";
-    //     for (let i = 0; i < word.length - 2; i++) {
-    //         hint += " — "
-    //     }
-    //     hint += word[word.length - 1] + " "
-    //     return hint
-    // }
-    // else if (word.length <= 9) {
-    //     hint += word[0] + " " + word[1] + " " + word[2];
-    //     for (let i = 0; i < word.length - 4; i++) {
-    //         hint += " — "
-    //     }
-    //     hint += word[word.length - 1]
-    //     return hint
-    // }
-    // else {
-    //     hint += word[0] + " " + word[1] + " " + word[2] + " " + word[3];
-    //     for (let i = 0; i < word.length - 5; i++) {
-    //         hint += " — "
-    //     }
-    //     hint += word[word.length - 1]
-    //     return hint
-    // }
 }
 
 function checkAnswer() {
@@ -192,10 +103,8 @@ function checkAnswer() {
     else {
         inputWord = document.querySelector("#word-input").value.trim().toLowerCase();
     }
-    // console.log(inputWord)
     if (wordArrays[catNum].includes(inputWord) && !gueesedWords.includes(inputWord)) {
         let wordDiv = document.querySelector(`#words-${inputWord.length}`)
-        // console.log(wordDiv)
         let wordBlock = createWordP(inputWord, "guessed");
         wordDiv.appendChild(wordBlock);
 
@@ -203,7 +112,6 @@ function checkAnswer() {
         addPoints("#points", 5);
         checkPoints();
         gueesedWords.push(inputWord)
-        // console.log(document.querySelector(`#words-${inputWord.length}-score`).textContent)
     }
     document.querySelector("#word-input").value = "";
 }
@@ -267,7 +175,6 @@ function fillWordBlock(num, categ) {
         }
     }
     if (index != 0) {
-        // console.log(maxPoints + " " + index*5)
         maxPoints = maxPoints + index * 5;
         let headerDiv = createDiv("word-block-header");
         headerDiv.appendChild(createWordP(`${num}-symbol words`, "word-header"));
