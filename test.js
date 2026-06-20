@@ -236,9 +236,6 @@ function checkRand(num, array, max) {
 }
 
 function checkFullness(arrayQue, arrayWords, length) {
-    console.log(arrayWords);
-    console.log(arrayQue);
-
     if (arrayQue.length >= arrayWords.length) {
         console.log("yes");
         if (arrayQue == qNums) {
