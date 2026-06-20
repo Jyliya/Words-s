@@ -26,7 +26,7 @@ else {
 data
     .then(response => response.json())
     .then(json => {
-        for (item of json["words"]) {
+        for (const item of json["words"]) {
             dataArr.push(item);
         }
     })
@@ -41,6 +41,7 @@ verbsData
     })
     .catch(error => console.error(error));
 
+
 let textAnswers = document.querySelectorAll(".textAnswer");
 let inputAnswers = document.querySelectorAll(".inputAnswer");
 
@@ -48,13 +49,13 @@ for (let i = 0; i < textAnswers.length; i++) {
     textAnswers[i].addEventListener("click", () => {
         inputAnswers[i].checked = true;
     })
-}
+} // Delete all checked answers
 
 const form = document.forms[0];
 
 function getRandom(min, max) {
     return Math.floor(Math.random() * (max - min + 1) + min);
-}
+} // Get a random number
 
 let allCount = document.querySelector("#all-count");
 let correctCount = 0;
@@ -77,7 +78,7 @@ function getNewQuestion() {
             arr = qNumsVerbs;
             length = dataVerbsArr.length;
             break
-    } 
+    } // Getting right array for questions and an array with already used question
     checkAnswer(arr);
     allCount.textContent = Number(allCount.textContent) + 1;
     endTest();
@@ -154,7 +155,7 @@ function getNewQuestion() {
 
 function startTest() {
     let answ = form.querySelectorAll(".answer")
-    if (chosenType == "input") {
+    if (chosenType == "input" || chosenType == "verbSecond" || chosenType == "verbThird") {
         answ.forEach(item => { item.style.display = "none" });
         document.querySelector("#answ-input").hidden = false;
     }
@@ -185,7 +186,6 @@ function checkAnswer(array) {
             break
         case "verbSecond":
             answer = dataVerbsArr[array[array.length - 1]].second;
-            console.log(answer);
             break
         case "verbThird":
             answer = dataVerbsArr[array[array.length - 1]].third;
@@ -237,14 +237,11 @@ function checkRand(num, array, max) {
 
 function checkFullness(arrayQue, arrayWords, length) {
     if (arrayQue.length >= arrayWords.length) {
-        console.log("yes");
         if (arrayQue == qNums) {
-            console.log("yes");
             arrayQue.length = 0;
             localStorage.removeItem("used questions");
         }
         if (arrayQue == qNumsVerbs) {
-            console.log("yes");
             arrayQue.length = 0;
             localStorage.removeItem("used verbs");
         }
@@ -257,7 +254,7 @@ function endTest() {
     const choiceBlock = document.querySelector("#test-choice");
     const congratsBlock = document.querySelector("#congratulation-block");
 
-   if (Number(allCount.textContent) === 30) {
+    if (Number(allCount.textContent) === 30) {
         nextBtn.value = "Finish"
     }
     if (allCount.textContent > 30) {
@@ -305,10 +302,10 @@ document.addEventListener("keydown", (e) => {
     if (e.code == "KeyA" && e.shiftKey) {
         window.location.href = "/Words-s/results.html"
     }
-}) //Відкриття сторінки з результатами
+})
 
 document.querySelector("#answ-input").addEventListener("keydown", (e) => {
-    if (e.code == "Enter") {
+    if (e.code == "Enter" || e.code == "NumpadEnter") {
         e.preventDefault();
         getNewQuestion();
     }
