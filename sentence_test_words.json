@@ -28,27 +28,6 @@
     ],
     "verbs": [
         {
-            "verb": "come",
-            "objects": [
-                "home",
-                "here",
-                "to the party",
-                "to the meeting",
-                "to the park",
-                "to the restaurant",
-                "to the cinema"
-            ]
-        },
-        {
-            "verb": "meet",
-            "objects": [
-                "a friend",
-                "their teacher",
-                "our neighbor",
-                "his boss"
-            ]
-        },
-        {
             "verb": "go",
             "objects": [
                 "home",
@@ -60,28 +39,6 @@
                 "to the cinema",
                 "to school",
                 "to work"
-            ]
-        },
-        {
-            "verb": "eat",
-            "objects": [
-                "breakfast",
-                "lunch",
-                "dinner",
-                "a sandwich",
-                "a salad",
-                "a pizza",
-                "an apple"
-            ]
-        },
-        {
-            "verb": "drink",
-            "objects": [
-                "water",
-                "tea",
-                "coffee",
-                "juice",
-                "milk"
             ]
         },
         {
@@ -114,37 +71,11 @@
             ]
         },
         {
-            "verb": "buy",
-            "objects": [
-                "food",
-                "a gift",
-                "a ticket",
-                "clothes",
-                "a car",
-                "a house"
-            ]
-        },
-        {
             "verb": "work",
             "objects": [
                 "in an office",
                 "from home",
                 "on a project"
-            ]
-        },
-        {
-            "verb": "count",
-            "objects": [
-                "people",
-                "money"
-            ]
-        },
-        {
-            "verb": "purchase",
-            "objects": [
-                "a car",
-                "a house",
-                "a gift"
             ]
         },
         {
@@ -164,14 +95,6 @@
             ]
         },
         {
-            "verb": "create",
-            "objects": [
-                "artwork",
-                "a website",
-                "a presentation"
-            ]
-        },
-        {
             "verb": "play",
             "objects": [
                 "soccer",
@@ -181,6 +104,223 @@
                 "basketball",
                 "a game",
                 "video games"
+            ]
+        },
+        {
+            "verb": "clean",
+            "objects": [
+                "the room",
+                "the house",
+                "the table",
+                "the kitchen"
+            ]
+        },
+        {
+            "verb": "drive",
+            "objects": [
+                "a car",
+                "to work",
+                "to the city",
+                "home"
+            ]
+        },
+        {
+            "verb": "walk",
+            "objects": [
+                "in the park",
+                "home",
+                "to school",
+                "outside"
+            ]
+        },
+        {
+            "verb": "talk",
+            "objects": [
+                "to a friend",
+                "to the boss",
+                "to the teacher",
+                "about work"
+            ]
+        },
+        {
+            "verb": "build",
+            "objects": [
+                "a house",
+                "a project",
+                "a model",
+                "something new"
+            ]
+        },
+        {
+            "verb": "search",
+            "objects": [
+                "for a solution",
+                "for a job",
+                "for a place",
+                "for a key"
+            ]
+        },
+        {
+            "verb": "come",
+            "objects": [
+                "home",
+                "here",
+                "to the party",
+                "to the meeting",
+                "to the park",
+                "to the restaurant",
+                "to the cinema"
+            ]
+        },
+        {
+            "verb": "meet",
+            "objects": [
+                "a friend",
+                "the teacher",
+                "the neighbor",
+                "the boss"
+            ]
+        },
+        {
+            "verb": "do",
+            "objects": [
+                "the work",
+                "homework",
+                "the dishes",
+                "the cleaning"
+            ]
+        },
+        {
+            "verb": "agree",
+            "objects": [
+                "with the plan",
+                "with the decision",
+                "with the idea"
+            ]
+        },
+        {
+            "verb": "ask",
+            "objects": [
+                "for help",
+                "for advice"
+            ]
+        },
+        {
+            "verb": "eat",
+            "objects": [
+                "breakfast",
+                "lunch",
+                "dinner",
+                "a sandwich",
+                "a salad",
+                "a pizza",
+                "an apple"
+            ]
+        },
+        {
+            "verb": "enjoy",
+            "objects": [
+                "the movie",
+                "the music",
+                "the food"
+            ]
+        },
+        {
+            "verb": "fall",
+            "objects": [
+                "from a tree",
+                "on the ground"
+            ]
+        },
+        {
+            "verb": "feel",
+            "objects": [
+                "joy",
+                "upset",
+                "happy",
+                "sad",
+                "excited"
+            ]
+        },
+        {
+            "verb": "fight",
+            "objects": [
+                "with a friend",
+                "with a sibling",
+                "with a colleague"
+            ]
+        },
+        {
+            "verb": "fly",
+            "objects": [
+                "on a plane",
+                "to another country"
+            ]
+        },
+        {
+            "verb": "drink",
+            "objects": [
+                "water",
+                "tea",
+                "coffee",
+                "juice",
+                "milk"
+            ]
+        },
+        {
+            "verb": "buy",
+            "objects": [
+                "food",
+                "a gift",
+                "a ticket",
+                "clothes",
+                "a car",
+                "a house"
+            ]
+        },
+        {
+            "verb": "count",
+            "objects": [
+                "people",
+                "money"
+            ]
+        },
+        {
+            "verb": "purchase",
+            "objects": [
+                "a car",
+                "a house",
+                "a gift"
+            ]
+        },
+        {
+            "verb": "create",
+            "objects": [
+                "artwork",
+                "a website",
+                "a presentation"
+            ]
+        },
+        {
+            "verb": "cry",
+            "objects": [
+                "at a sad movie"
+            ]
+        },
+        {
+            "verb": "dance",
+            "objects": [
+                "at a party",
+                "in the club",
+                "at a wedding"
+            ]
+        },
+        {
+            "verb": "draw",
+            "objects": [
+                "a picture",
+                "a sketch",
+                "a design"
             ]
         },
         {
@@ -227,37 +367,28 @@
             ]
         },
         {
-            "verb": "clean",
-            "objects": [
-                "the room",
-                "the house",
-                "the table",
-                "the kitchen"
-            ]
-        },
-        {
             "verb": "call",
             "objects": [
                 "a friend",
-                "their boss",
-                "our teacher",
-                "his mother"
+                "the boss",
+                "the teacher",
+                "the mother"
             ]
         },
         {
             "verb": "help",
             "objects": [
                 "a friend",
-                "their parents",
-                "our teacher",
-                "his neighbor"
+                "the parents",
+                "the teacher",
+                "the neighbor"
             ]
         },
         {
             "verb": "visit",
             "objects": [
                 "a friend",
-                "their family",
+                "the family",
                 "the city",
                 "the park"
             ]
@@ -269,33 +400,6 @@
                 "to the village",
                 "abroad",
                 "to the country"
-            ]
-        },
-        {
-            "verb": "drive",
-            "objects": [
-                "a car",
-                "to work",
-                "to the city",
-                "home"
-            ]
-        },
-        {
-            "verb": "walk",
-            "objects": [
-                "in the park",
-                "home",
-                "to school",
-                "outside"
-            ]
-        },
-        {
-            "verb": "talk",
-            "objects": [
-                "to a friend",
-                "to their boss",
-                "to our teacher",
-                "about work"
             ]
         },
         {
@@ -341,15 +445,6 @@
                 "a gift",
                 "a letter",
                 "a call"
-            ]
-        },
-        {
-            "verb": "build",
-            "objects": [
-                "a house",
-                "a project",
-                "a model",
-                "something new"
             ]
         },
         {
@@ -423,147 +518,27 @@
                 "time",
                 "a break"
             ]
-        }
-    ],
-    "verbsForContinuous": [
+        },
         {
-            "verb": "go",
+            "verb": "break",
             "objects": [
-                "home",
-                "there",
-                "to the party",
-                "to the meeting",
-                "to the park",
-                "to the restaurant",
-                "to the cinema",
-                "to school",
-                "to work"
+                "a vase",
+                "a window",
+                "a phone"
             ]
         },
         {
-            "verb": "watch",
-            "objects": [
-                "TV",
-                "a movie",
-                "a show",
-                "a series"
-            ]
-        },
-        {
-            "verb": "read",
+            "verb": "bring",
             "objects": [
                 "a book",
-                "a newspaper",
-                "a magazine",
-                "a message",
-                "an email",
-                "a story"
-            ]
-        },
-        {
-            "verb": "write",
-            "objects": [
-                "a message",
-                "a letter",
-                "an email",
-                "a note"
-            ]
-        },
-        {
-            "verb": "work",
-            "objects": [
-                "in an office",
-                "from home",
-                "on a project"
-            ]
-        },
-        {
-            "verb": "cook",
-            "objects": [
-                "dinner",
-                "lunch",
-                "breakfast"
-            ]
-        },
-        {
-            "verb": "bake",
-            "objects": [
-                "a cake",
-                "cookies",
-                "bread"
-            ]
-        },
-        {
-            "verb": "play",
-            "objects": [
-                "soccer",
-                "tennis",
-                "chess",
-                "football",
-                "basketball",
-                "a game",
-                "video games"
-            ]
-        },
-        {
-            "verb": "clean",
-            "objects": [
-                "the room",
-                "the house",
-                "the table",
-                "the kitchen"
-            ]
-        },
-        {
-            "verb": "drive",
-            "objects": [
-                "a car",
-                "to work",
-                "to the city",
-                "home"
-            ]
-        },
-        {
-            "verb": "walk",
-            "objects": [
-                "in the park",
-                "home",
-                "to school",
-                "outside"
-            ]
-        },
-        {
-            "verb": "talk",
-            "objects": [
-                "to a friend",
-                "to their boss",
-                "to our teacher",
-                "about work"
-            ]
-        },
-        {
-            "verb": "build",
-            "objects": [
-                "a house",
-                "a project",
-                "a model",
-                "something new"
-            ]
-        },
-        {
-            "verb": "search",
-            "objects": [
-                "for a solution",
-                "for a job",
-                "for a place",
-                "for a key"
+                "a gift",
+                "a friend"
             ]
         }
     ],
     "tenses": [
         {
             "name": "Present Simple",
-            "verbEndingSingular": "s",
             "beforeVerbNegativeSingular": "doesn't",
             "beforeVerbNegativePlural": "don't",
             "keywords": [
